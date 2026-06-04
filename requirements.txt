@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+altair
+pyqubo
+dwave-ocean-sdk

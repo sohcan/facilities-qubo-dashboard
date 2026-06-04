@@ -1,0 +1,9 @@
+WBS_Code,Program_Title,Program_Description,Fed_Type_A,Fed_Type_B,Lab_Type_A
+WBS-1.10.01,Programmatic Mission Category WBS-1.10.01,NNSA/DOE Strategic funding description for WBS-1.10.01,0,0,100
+WBS-1.10.02,Programmatic Mission Category WBS-1.10.02,NNSA/DOE Strategic funding description for WBS-1.10.02,0,100,100
+WBS-2.05.01,Programmatic Mission Category WBS-2.05.01,NNSA/DOE Strategic funding description for WBS-2.05.01,50,75,0
+WBS-2.05.02,Programmatic Mission Category WBS-2.05.02,NNSA/DOE Strategic funding description for WBS-2.05.02,25,0,100
+WBS-3.01.01,Programmatic Mission Category WBS-3.01.01,NNSA/DOE Strategic funding description for WBS-3.01.01,25,0,25
+WBS-3.02.04,Programmatic Mission Category WBS-3.02.04,NNSA/DOE Strategic funding description for WBS-3.02.04,25,0,100
+WBS-4.04.01,Programmatic Mission Category WBS-4.04.01,NNSA/DOE Strategic funding description for WBS-4.04.01,0,25,75
+WBS-4.04.02,Programmatic Mission Category WBS-4.04.02,NNSA/DOE Strategic funding description for WBS-4.04.02,100,25,25
