@@ -228,9 +228,7 @@ st.title('QUBO Budgeting')
 st.subheader("Facilities Project Optimzation")
 st.markdown("""
         This dashboard explores **Quadratic Unconstrained Binary Optimization (QUBO)** as a method to plan 
-facility repair projects under budget constraints.  \nUsing 'plausible' but wholly synthetic variables and data, each candidate project is represented as a binary
-decision variable: selected or not selected. The model rewards effective utilization of available funding while penalizing
-solutions that violate cost sharing rules. Projects subject to inter-organizational agreements can be effectively sorted and selected.""")
+facility repair projects under budget constraints.  \n """)
 
 with st.sidebar:
     with st.container(border=True):
@@ -256,11 +254,13 @@ with st.sidebar:
 
 
 with st.container(border=True):
-    st.markdown('Energy Reads')
+    st.markdown("""**Energy Reads**  \n*Using 'plausible' but wholly synthetic data, each candidate project is represented as a binary
+decision variable: selected or not selected.*""")
     st.altair_chart(energy_draw.interactive())
 
 with st.container(border=True):
-    st.markdown('Binary Variables: (*x=1*) Frequency, Associated Cost')
+    st.markdown("""**Binary Variables**  \n*The model rewards effective utilization of available funding while penalizing 
+                solutions that violate cost sharing rules.* (X=1) *sorted by* Frequency | Associated Cost""")
     left, right = st.columns(2)
     with left:
         st.altair_chart(cost_draw.interactive())
@@ -271,7 +271,9 @@ with st.container(border=True):
 
 
 with st.container(border=True):
-    st.markdown('Binary Variable Outcomes (Reassociated to Project Costs)')
+    st.markdown("""**Binary Variable Outcomes**  \n*Combinations are 
+                reassociated to synthetic project data. 
+                Project lists which are subject to inter-organizational agreements can be effectively sorted, selected and proposed.*""")
     EXP_cols = st.columns(3, border=False, gap='medium')
     for exp in range(0,experiment_count):
         with EXP_cols[divmod(exp,3)[1]]:
