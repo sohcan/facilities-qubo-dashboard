@@ -17,6 +17,24 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown(
+    """
+    <style>
+        .block-container {
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            }
+            h1 {
+                letter-spacing: -0.03em;
+            }
+            div[data-testid="stMarkdownContainer"] p {
+                line-height: 1.45;
+                }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 if 'lim_Bp' not in st.session_state:
     st.session_state['lim_Bp'] = 2300000
 
@@ -160,7 +178,7 @@ QUBOScenario.insert(
 CAIS_chrt = CAIS_dat.dropna().iloc[:,0:-num_reads]
 CAIS_chrt['Frequency'] = CAIS_dat.dropna().iloc[:,-num_reads+1:].sum(axis=1)
 CAIS_chrt.drop(columns='Qx', inplace=True)
-limit_values = [{'limit':f"{Project_Type} Budget Limit", 'value': lim_Bp},{'limit': f"{Project_Type} Budget B Limit", 'value': lim_Bs}]
+limit_values = [{'limit':f"{Project_Type} Budget Limit", 'value': lim_Bp},{'limit': f"{Non_Project_Type} Budget Limit", 'value': lim_Bs}]
 
 #CHARTS----------------->
 ##########CHART LINE
@@ -185,7 +203,7 @@ freq_bar = freq_chart.mark_bar().encode(y = alt.Y('Frequency:Q'))
 
 cost_chart = alt.Chart(CAIS_chrt).transform_fold(fold=[cst_Project_Type, Non_cst_Project_Type], as_=['Entity','Total'])
 cost_bar = cost_chart.mark_bar().encode(x = alt.X('Property_ID:N', sort=sort), y=alt.Y('Total:Q'), color=alt.Color('Entity:N', legend=cost_legend))
-lim_chart = alt.Chart(alt.Data(values=limit_values)).mark_rule(size=1).encode(y='value:Q', stroke=alt.Color('limit:N', title='Limits', scale=acct_scale, legend=None))
+lim_chart = alt.Chart(alt.Data(values=limit_values)).mark_rule(size=2).encode(y='value:Q', stroke=alt.Color('limit:N', title='Limits', scale=acct_scale, legend=None))
 
 freq_draw = freq_bar
 cost_draw =  cost_bar + lim_chart
@@ -200,15 +218,19 @@ freq_bar2 = freq_chart2.mark_bar().encode(y = alt.Y('Frequency:Q', axis=flip2))
 cost_chart2 = alt.Chart(CAIS_chrt).transform_fold(fold=[cst_Project_Type, Non_cst_Project_Type], as_=['Entity','Total'])
 cost_bar2 = cost_chart2.mark_bar().encode(x = alt.X('Property_ID:N', sort=sort2), y=alt.Y('Total:Q', axis=flip2), color=alt.Color('Entity:N', legend=None))
 
-lim_chart2 = alt.Chart(alt.Data(values=limit_values)).mark_rule(size=1).encode(y='value:Q', stroke=alt.Color('limit:N', title='Limits', scale=acct_scale, legend=acct_legend))
+lim_chart2 = alt.Chart(alt.Data(values=limit_values)).mark_rule(size=2).encode(y='value:Q', stroke=alt.Color('limit:N', title='Limits', scale=acct_scale, legend=acct_legend))
 
 freq_draw2 = freq_bar2
 cost_draw2 = cost_bar2 + lim_chart2
 
 ##################PAGEITUP
-st.dataframe(CAIS_chrt)
-st.title('QUBO')
-st.subheader('Facility Condition Repair Optimization')
+st.title('QUBO Budgeting')
+st.subheader("Facilities Project Optimzation")
+st.markdown("""
+        This dashboard explores **Quadratic Unconstrained Binary Optimization (QUBO)** as a method to plan 
+facility repair projects under budget constraints.  \nUsing 'plausible' but wholly synthetic variables and data, each candidate project is represented as a binary
+decision variable: selected or not selected. The model rewards effective utilization of available funding while penalizing
+solutions that violate cost sharing rules. Projects subject to inter-organizational agreements can be effectively sorted and selected.""")
 
 with st.sidebar:
     with st.container(border=True):
