@@ -2,12 +2,12 @@ import pandas as pd
 import numpy as np
 import random
 
-# Seed for absolute reproducibility of synth-datasets
+#Seed synthetic data generation for reproducible demo outputs.
 np.random.seed(42)
 random.seed(42)
 
 
-#GENERATE SYNTHETIC WBS_Funding_Splits.csv
+#Generate synthetic funding split reference data.
 
 wbs_codes = ['WBS-1.10.01', 'WBS-1.10.02', 'WBS-2.05.01', 'WBS-2.05.02', 'WBS-3.01.01', 'WBS-3.02.04', 'WBS-4.04.01', 'WBS-4.04.02']
 wbs_titles = [f"Programmatic Mission Category {code}" for code in wbs_codes]
@@ -24,10 +24,10 @@ df_doe_wbs = pd.DataFrame({
     'Lab_Type_A': discretionary_pct
 })
 
-#Gen facilities
+#Generate synthetic facility inventory data.
 num_facilities = 56
 
-#IDS
+#Synthetic identifiers and site descriptors.
 fims_property_ids = sorted(random.sample(range(1000000, 9999999), num_facilities))
 cities = ['Oak Ridge', 'Los Alamos', 'Livermore', 'Richland', 'Argonne', 'Sandia']
 states = ['Tennessee', 'New Mexico', 'California', 'Washington', 'Illinois']
@@ -56,7 +56,7 @@ df_doe_inventory = pd.DataFrame({
     'Space_Name': ['Lab Suite 01'] * num_facilities,
     'Category_Code': [random.randint(110000, 999000) for _ in fims_property_ids],
     'FAC_Code': [random.randint(1100, 9999) for _ in fims_property_ids],
-    'Primary_UOM': ['GSF'] * num_facilities, # Gross Square Feet
+    'Primary_UOM': ['GSF'] * num_facilities, #Gross Square Feet
     'Primary_Qty': np.random.randint(5000, 250000, size=num_facilities),
     'Secondary_UOM': ['PN'] * num_facilities,
     'Secondary_Qty': [0] * num_facilities,
@@ -71,7 +71,7 @@ df_doe_inventory = pd.DataFrame({
 })
 
 
-#GENERATE SYNTHETIC 'CAIS_Deficiencies.csv'
+#Generate synthetic condition deficiency records.
 
 cais_categories = ['Foundations & Substructure', 'Superstructure & Walls', 'Roofing Systems', 'Interior Finishes', 'Plumbing Systems', 'HVAC & Mechanical', 'Electrical Systems']
 cais_subtypes = ['Reinforced Concrete Repair', 'High-Performance Glazing', 'EPDM Membrane Roof', 'Epoxy Floor Coating', 'Chilled Water Loop', 'Air Handling Unit', 'High-Voltage Switchgear']
@@ -109,20 +109,20 @@ for pid in fims_property_ids:
 
 df_doe_cais = pd.DataFrame(fake_deficiencies)
 
-#Generate
+#Build derived synthetic scenario table.
 cais_merged = df_doe_cais.copy()
 fims_inv = df_doe_inventory.copy()
 wbs_splits = df_doe_wbs.copy()
 
 cais_merged = cais_merged.merge(fims_inv[['Property_ID', 'WBS_Element']], on='Property_ID', how='left')
 cais_merged = cais_merged.merge(wbs_splits[['WBS_Code', 'Fed_Type_A', 'Fed_Type_B', 'Lab_Type_A']], left_on='WBS_Element', right_on='WBS_Code', how='left')
-#Group by WBS and Property_ID to get 10-year master cost table
+#Aggregate synthetic scenario costs by program element and property.
 doe_bldr = cais_merged.groupby(['WBS_Element', 'Property_ID'])['Correction_Cost'].sum().reset_index().rename(columns={'Correction_Cost': 'Correction_Cost_10YR'})
 
-#write
+#Write synthetic CSV outputs.
 df_doe_wbs.to_csv("WBS_Funding_Splits.csv", index=False)
 df_doe_inventory.to_csv("FIMS_Inventory.csv", index=False)
 df_doe_cais.to_csv("CAIS_Deficiencies.csv", index=False)
 doe_bldr.to_csv("FIMS_Master_Scenario_Cost.csv", index=False)
 
-print("SUCCESS: 4 synthetic files written to active directory!")
+print("SUCCESS: 4 synthetic demonstration files written to active directory!")
