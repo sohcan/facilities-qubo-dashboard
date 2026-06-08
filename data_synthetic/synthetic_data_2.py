@@ -2,13 +2,13 @@ import pandas as pd
 import numpy as np
 import random
 
-# Seed synthetic data generation for reproducible demo outputs.
+# Seed for absolute reproducibility of synth-datasets
 np.random.seed(42)
 random.seed(42)
 
-# ---------------------------------------------------------
-# 1. GENERATE SYNTHETIC 'WBS_Funding_Splits.csv' (synthetic funding reference data)
-# ---------------------------------------------------------
+
+#GENERATE SYNTHETIC WBS_Funding_Splits.csv
+
 wbs_codes = ['WBS-1.10.01', 'WBS-1.10.02', 'WBS-2.05.01', 'WBS-2.05.02', 'WBS-3.01.01', 'WBS-3.02.04', 'WBS-4.04.01', 'WBS-4.04.02']
 wbs_titles = [f"Programmatic Mission Category {code}" for code in wbs_codes]
 fed_pct = [random.choice([0, 25, 50, 75, 100]) for _ in wbs_codes]
@@ -24,13 +24,12 @@ df_doe_wbs = pd.DataFrame({
     'Lab_Type_A': discretionary_pct
 })
 
-# ---------------------------------------------------------
-# 2. GENERATE SYNTHETIC 'FIMS_Inventory.csv' (synthetic facility inventory data)
-# ---------------------------------------------------------
-num_facilities = 35
-# FIMS Property IDs are unique 7-digit integers
+#Gen facilities
+num_facilities = 56
+
+#IDS
 fims_property_ids = sorted(random.sample(range(1000000, 9999999), num_facilities))
-cities = ['Oak Ridge', 'Los Alamos', 'Livermore', 'Richland', 'Argonne', 'Sandia-Albuquerque']
+cities = ['Oak Ridge', 'Los Alamos', 'Livermore', 'Richland', 'Argonne', 'Sandia']
 states = ['Tennessee', 'New Mexico', 'California', 'Washington', 'Illinois']
 site_names = ['Y-12 National Security Complex', 'Los Alamos National Lab', 'Lawrence Livermore National Lab', 'Hanford Site', 'Argonne National Lab', 'Sandia National Lab']
 
@@ -50,7 +49,7 @@ df_doe_inventory = pd.DataFrame({
     'FIMS_Status': ['Reportable'] * num_facilities,
     'Acquisition_Date': ['1-Jan-80'] * num_facilities,
     'Acquisition_Method': ['Constructed'] * num_facilities,
-    'RPV': np.random.randint(5000000, 150000000, size=num_facilities), # Replacement Plant Value (synthetic replacement value)
+    'RPV': np.random.randint(5000000, 150000000, size=num_facilities),
     'Construction_Type': ['PERM'] * num_facilities,
     'WBS_Element': [random.choice(wbs_codes) for _ in fims_property_ids],
     'Space_ID': ['001'] * num_facilities,
@@ -71,9 +70,9 @@ df_doe_inventory = pd.DataFrame({
     'Form_Label': ['Building'] * num_facilities
 })
 
-# ---------------------------------------------------------
-# 3. GENERATE SYNTHETIC 'CAIS_Deficiencies.csv' (synthetic condition deficiency data)
-# ---------------------------------------------------------
+
+#GENERATE SYNTHETIC 'CAIS_Deficiencies.csv'
+
 cais_categories = ['Foundations & Substructure', 'Superstructure & Walls', 'Roofing Systems', 'Interior Finishes', 'Plumbing Systems', 'HVAC & Mechanical', 'Electrical Systems']
 cais_subtypes = ['Reinforced Concrete Repair', 'High-Performance Glazing', 'EPDM Membrane Roof', 'Epoxy Floor Coating', 'Chilled Water Loop', 'Air Handling Unit', 'High-Voltage Switchgear']
 work_types = ['Repair Deficiency', 'Replace System', 'Sustainment Paint']
@@ -85,7 +84,7 @@ for pid in fims_property_ids:
         cat = random.choice(cais_categories)
         sub = random.choice(cais_subtypes)
         w_type = random.choice(work_types)
-        cost = float(np.random.randint(2500, 750000)) # DOE scales are often larger
+        cost = float(np.random.randint(2500, 750000))
         fake_deficiencies.append({
             'Asset_Name': f"Research Facility {pid}",
             'Property_ID': pid,
@@ -94,8 +93,8 @@ for pid in fims_property_ids:
             'Correction_Work_Type': w_type,
             'Fiscal_Year': random.choice([2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035]),
             'Correction_Cost': cost,
-            'API': random.randint(1, 100), # Asset Priority Index
-            'Current_FCI': round(np.random.uniform(0.3, 0.98), 4), # Facility Condition Index (decimal)
+            'API': random.randint(1, 100),
+            'Current_FCI': round(np.random.uniform(0.3, 0.98), 4),
             'Projected_FCI': round(np.random.uniform(0.3, 0.98), 4),
             'Current_RSL': random.randint(-5, 30),
             'Projected_RSL': random.randint(-5, 30),
@@ -110,24 +109,20 @@ for pid in fims_property_ids:
 
 df_doe_cais = pd.DataFrame(fake_deficiencies)
 
-# ---------------------------------------------------------
-# 4. GENERATE MASTER 'FIMS_Master_Scenario_Cost.csv' (synthetic scenario cost data)
-# ---------------------------------------------------------
+#Generate
 cais_merged = df_doe_cais.copy()
 fims_inv = df_doe_inventory.copy()
 wbs_splits = df_doe_wbs.copy()
 
 cais_merged = cais_merged.merge(fims_inv[['Property_ID', 'WBS_Element']], on='Property_ID', how='left')
 cais_merged = cais_merged.merge(wbs_splits[['WBS_Code', 'Fed_Type_A', 'Fed_Type_B', 'Lab_Type_A']], left_on='WBS_Element', right_on='WBS_Code', how='left')
-# Group by WBS and Property_ID to get 10-year master cost table
+#Group by WBS and Property_ID to get 10-year master cost table
 doe_bldr = cais_merged.groupby(['WBS_Element', 'Property_ID'])['Correction_Cost'].sum().reset_index().rename(columns={'Correction_Cost': 'Correction_Cost_10YR'})
 
-# ---------------------------------------------------------
-# 5. WRITE OUT THE SCRUBBED REPLICAS
-# ---------------------------------------------------------
+#write
 df_doe_wbs.to_csv("WBS_Funding_Splits.csv", index=False)
 df_doe_inventory.to_csv("FIMS_Inventory.csv", index=False)
 df_doe_cais.to_csv("CAIS_Deficiencies.csv", index=False)
 doe_bldr.to_csv("FIMS_Master_Scenario_Cost.csv", index=False)
 
-print("SUCCESS: 4 synthetic demonstration files written to active directory!")
+print("SUCCESS: 4 synthetic files written to active directory!")

@@ -1,208 +1,347 @@
 Asset_Name,Property_ID,Uniformat_Category,Component_Type,Correction_Work_Type,Fiscal_Year,Correction_Cost,API,Current_FCI,Projected_FCI,Current_RSL,Projected_RSL,Quantity,UoM,Assessment_Method,Last_Inspected_Rating,Assessor_Comments,CAIS_Asset_ID,Section_ID
-Research Facility 1109031,1109031,Electrical Systems,High-Performance Glazing,Repair Deficiency,2033,538322.0,4,0.3602,0.4333,6,16,6746,EA,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-263,SEC-1
-Research Facility 1109031,1109031,Interior Finishes,High-Voltage Switchgear,Repair Deficiency,2034,265660.0,29,0.9536,0.8743,7,24,5729,LF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-328,SEC-1
-Research Facility 1109031,1109031,HVAC & Mechanical,High-Performance Glazing,Replace System,2032,26800.0,36,0.4845,0.8635,-1,12,5754,KV,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-439,SEC-1
-Research Facility 1109031,1109031,Foundations & Substructure,EPDM Membrane Roof,Repair Deficiency,2031,276829.0,5,0.9564,0.7128,1,22,5664,LF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-720,SEC-5
-Research Facility 1109031,1109031,Foundations & Substructure,Epoxy Floor Coating,Sustainment Paint,2030,519088.0,33,0.3958,0.8455,-3,22,28,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-541,SEC-1
-Research Facility 1109031,1109031,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2032,379396.0,85,0.3106,0.5879,2,14,8309,LF,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-434,SEC-4
-Research Facility 1728977,1728977,Plumbing Systems,High-Performance Glazing,Repair Deficiency,2033,458308.0,86,0.4351,0.3038,19,6,9325,LF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-661,SEC-1
-Research Facility 1728977,1728977,Roofing Systems,EPDM Membrane Roof,Repair Deficiency,2033,138830.0,75,0.4352,0.7837,15,24,7239,KV,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-623,SEC-4
-Research Facility 1728977,1728977,Electrical Systems,High-Voltage Switchgear,Sustainment Paint,2029,588646.0,85,0.8245,0.3504,0,13,8446,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-938,SEC-2
-Research Facility 1728977,1728977,HVAC & Mechanical,EPDM Membrane Roof,Repair Deficiency,2030,291498.0,19,0.7427,0.9222,-4,-3,4012,KV,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-970,SEC-1
-Research Facility 1728977,1728977,Interior Finishes,Epoxy Floor Coating,Sustainment Paint,2030,33035.0,92,0.6056,0.3649,19,26,6548,EA,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-771,SEC-1
-Research Facility 1728977,1728977,Electrical Systems,High-Voltage Switchgear,Repair Deficiency,2033,604161.0,29,0.5211,0.7961,6,28,7612,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-355,SEC-1
-Research Facility 1728977,1728977,Interior Finishes,High-Performance Glazing,Replace System,2035,459051.0,72,0.4868,0.6816,15,23,8271,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-556,SEC-2
-Research Facility 1768805,1768805,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2031,493734.0,99,0.3813,0.785,28,26,3920,LF,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-179,SEC-3
-Research Facility 1768805,1768805,Superstructure & Walls,EPDM Membrane Roof,Replace System,2032,186564.0,70,0.7908,0.4605,0,3,2472,EA,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-810,SEC-2
-Research Facility 1768805,1768805,HVAC & Mechanical,High-Performance Glazing,Repair Deficiency,2033,617770.0,53,0.3275,0.7833,16,29,7634,KV,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-311,SEC-4
-Research Facility 1768805,1768805,Interior Finishes,High-Voltage Switchgear,Sustainment Paint,2027,221469.0,98,0.3173,0.3734,19,25,97,LF,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-871,SEC-4
-Research Facility 1768805,1768805,Electrical Systems,High-Voltage Switchgear,Replace System,2035,52515.0,96,0.7328,0.5138,29,9,8000,EA,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-546,SEC-4
-Research Facility 1768805,1768805,Foundations & Substructure,Epoxy Floor Coating,Replace System,2033,113187.0,93,0.773,0.3947,5,24,2092,SF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-706,SEC-5
-Research Facility 1768805,1768805,HVAC & Mechanical,Reinforced Concrete Repair,Repair Deficiency,2033,729770.0,18,0.5791,0.8138,24,6,824,LF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-435,SEC-2
-Research Facility 1768805,1768805,Interior Finishes,EPDM Membrane Roof,Replace System,2033,167399.0,36,0.9411,0.7072,21,11,1342,KV,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-867,SEC-5
-Research Facility 1768805,1768805,Foundations & Substructure,EPDM Membrane Roof,Repair Deficiency,2028,382489.0,100,0.8987,0.7246,-3,-4,4052,EA,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-736,SEC-2
-Research Facility 1768805,1768805,Superstructure & Walls,High-Performance Glazing,Replace System,2028,444796.0,73,0.3717,0.6104,8,24,4199,LF,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-720,SEC-5
-Research Facility 2166941,2166941,Electrical Systems,High-Voltage Switchgear,Repair Deficiency,2031,202735.0,14,0.5832,0.9006,-4,14,9434,KV,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-832,SEC-2
-Research Facility 2166941,2166941,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2030,544835.0,14,0.8491,0.9093,14,2,9273,SF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-645,SEC-4
-Research Facility 2166941,2166941,HVAC & Mechanical,EPDM Membrane Roof,Repair Deficiency,2035,571050.0,83,0.9166,0.485,16,-5,6883,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-543,SEC-3
-Research Facility 2166941,2166941,HVAC & Mechanical,High-Voltage Switchgear,Replace System,2029,457089.0,56,0.3004,0.5397,6,28,4426,KV,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-546,SEC-5
-Research Facility 2322047,2322047,Roofing Systems,High-Voltage Switchgear,Repair Deficiency,2028,405190.0,36,0.3047,0.6473,23,10,7614,KV,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-129,SEC-4
-Research Facility 2322047,2322047,Electrical Systems,EPDM Membrane Roof,Repair Deficiency,2034,231076.0,28,0.3815,0.5296,17,11,5577,LF,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-818,SEC-3
-Research Facility 2322047,2322047,Plumbing Systems,Reinforced Concrete Repair,Sustainment Paint,2030,168338.0,11,0.4144,0.4488,10,21,8005,EA,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-761,SEC-4
-Research Facility 2322047,2322047,Interior Finishes,High-Voltage Switchgear,Repair Deficiency,2028,595628.0,38,0.5746,0.3441,9,20,3987,LF,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-477,SEC-4
-Research Facility 2322047,2322047,Plumbing Systems,Chilled Water Loop,Replace System,2033,41853.0,96,0.9545,0.4712,30,16,5765,KV,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-413,SEC-3
-Research Facility 2322047,2322047,Superstructure & Walls,Reinforced Concrete Repair,Sustainment Paint,2030,485190.0,41,0.5046,0.4937,2,29,3034,EA,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-856,SEC-4
-Research Facility 2322047,2322047,Roofing Systems,Air Handling Unit,Sustainment Paint,2035,95764.0,77,0.4814,0.9641,13,1,3181,LF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-469,SEC-2
-Research Facility 2338687,2338687,Foundations & Substructure,Air Handling Unit,Sustainment Paint,2029,639647.0,36,0.335,0.4895,-3,-2,9067,LF,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-753,SEC-4
-Research Facility 2338687,2338687,Foundations & Substructure,High-Voltage Switchgear,Repair Deficiency,2031,272036.0,61,0.7314,0.7629,25,23,5583,EA,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-358,SEC-4
-Research Facility 2338687,2338687,Foundations & Substructure,High-Voltage Switchgear,Repair Deficiency,2033,744952.0,63,0.6328,0.9702,-1,-2,2486,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-411,SEC-1
-Research Facility 2338687,2338687,Superstructure & Walls,Reinforced Concrete Repair,Sustainment Paint,2033,483171.0,78,0.703,0.355,9,28,6233,KV,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-404,SEC-5
-Research Facility 2338687,2338687,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2027,112251.0,79,0.4616,0.7952,1,8,3458,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-260,SEC-2
-Research Facility 2338687,2338687,Superstructure & Walls,Chilled Water Loop,Repair Deficiency,2029,463579.0,1,0.6198,0.9687,21,23,9730,KV,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-133,SEC-2
-Research Facility 2338687,2338687,Roofing Systems,Air Handling Unit,Replace System,2034,615833.0,10,0.6643,0.3614,9,11,9664,EA,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-217,SEC-5
-Research Facility 2556017,2556017,HVAC & Mechanical,High-Performance Glazing,Replace System,2029,420900.0,10,0.4025,0.6456,-2,5,5040,LF,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-227,SEC-4
-Research Facility 2556017,2556017,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2033,54163.0,35,0.3277,0.7018,27,29,8091,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-712,SEC-1
-Research Facility 2556017,2556017,Interior Finishes,Air Handling Unit,Replace System,2031,320894.0,4,0.4498,0.7836,0,9,9425,SF,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-690,SEC-1
-Research Facility 2556017,2556017,Electrical Systems,High-Voltage Switchgear,Repair Deficiency,2034,144983.0,67,0.7387,0.4186,23,12,2974,KV,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-933,SEC-4
-Research Facility 2556017,2556017,Foundations & Substructure,Epoxy Floor Coating,Replace System,2033,87396.0,43,0.5703,0.6521,15,1,2635,LF,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-810,SEC-4
-Research Facility 2556017,2556017,Roofing Systems,Air Handling Unit,Replace System,2035,275755.0,5,0.3935,0.5319,24,0,5154,LF,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-218,SEC-4
-Research Facility 2622631,2622631,HVAC & Mechanical,High-Voltage Switchgear,Sustainment Paint,2034,377205.0,53,0.9288,0.8966,-2,7,8495,LF,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-874,SEC-4
-Research Facility 2622631,2622631,HVAC & Mechanical,Epoxy Floor Coating,Repair Deficiency,2030,557094.0,35,0.4554,0.419,30,3,4720,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-224,SEC-1
-Research Facility 2622631,2622631,HVAC & Mechanical,Chilled Water Loop,Repair Deficiency,2029,110012.0,40,0.6513,0.4774,30,-5,9049,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-330,SEC-1
-Research Facility 2694522,2694522,Foundations & Substructure,Air Handling Unit,Repair Deficiency,2034,689476.0,92,0.3633,0.9101,13,27,4480,KV,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-583,SEC-2
-Research Facility 2694522,2694522,Interior Finishes,Chilled Water Loop,Repair Deficiency,2033,120296.0,25,0.9002,0.4283,27,3,1144,LF,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-448,SEC-5
-Research Facility 2694522,2694522,Roofing Systems,High-Voltage Switchgear,Repair Deficiency,2031,272044.0,93,0.5375,0.7936,14,26,2435,KV,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-595,SEC-3
-Research Facility 2694522,2694522,Roofing Systems,Chilled Water Loop,Sustainment Paint,2033,593478.0,59,0.8823,0.5751,15,7,3913,KV,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-976,SEC-4
-Research Facility 2694522,2694522,Foundations & Substructure,EPDM Membrane Roof,Sustainment Paint,2034,323684.0,91,0.7366,0.3572,19,19,2493,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-229,SEC-5
-Research Facility 2694522,2694522,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2034,35211.0,13,0.834,0.7549,28,24,252,EA,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-991,SEC-2
-Research Facility 2694522,2694522,Foundations & Substructure,Epoxy Floor Coating,Replace System,2032,518849.0,80,0.3063,0.369,20,0,5384,KV,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-741,SEC-4
-Research Facility 2694522,2694522,Electrical Systems,Chilled Water Loop,Repair Deficiency,2028,739878.0,31,0.9621,0.4931,13,9,1481,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-878,SEC-1
-Research Facility 2694522,2694522,Interior Finishes,High-Performance Glazing,Sustainment Paint,2031,645909.0,4,0.6302,0.6049,-3,15,920,LF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-483,SEC-4
-Research Facility 2694522,2694522,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2033,314752.0,73,0.4525,0.7843,6,5,2869,SF,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-991,SEC-4
-Research Facility 2714803,2714803,Interior Finishes,Chilled Water Loop,Repair Deficiency,2030,482547.0,60,0.8076,0.7418,11,24,4184,SF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-394,SEC-5
-Research Facility 2714803,2714803,Superstructure & Walls,Reinforced Concrete Repair,Replace System,2032,441930.0,76,0.7902,0.5095,14,22,4098,KV,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-303,SEC-4
-Research Facility 2714803,2714803,Electrical Systems,Epoxy Floor Coating,Repair Deficiency,2030,259187.0,49,0.3637,0.55,17,13,4838,SF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-381,SEC-1
-Research Facility 2714803,2714803,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2027,284474.0,78,0.4703,0.7011,26,13,3771,LF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-751,SEC-2
-Research Facility 2714803,2714803,Plumbing Systems,EPDM Membrane Roof,Sustainment Paint,2029,574121.0,81,0.5673,0.9066,1,-3,5062,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-693,SEC-3
-Research Facility 2714803,2714803,HVAC & Mechanical,High-Performance Glazing,Repair Deficiency,2031,153310.0,42,0.5954,0.5381,21,6,3290,EA,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-997,SEC-3
-Research Facility 3094235,3094235,Electrical Systems,High-Performance Glazing,Replace System,2034,362532.0,38,0.6923,0.6349,16,2,7674,SF,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-872,SEC-2
-Research Facility 3094235,3094235,Electrical Systems,Air Handling Unit,Sustainment Paint,2033,174336.0,72,0.6395,0.689,18,0,6465,SF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-649,SEC-1
-Research Facility 3094235,3094235,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2031,632771.0,75,0.4204,0.9395,19,18,1776,EA,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-125,SEC-5
-Research Facility 3094235,3094235,Plumbing Systems,EPDM Membrane Roof,Sustainment Paint,2030,308128.0,83,0.4901,0.9008,-1,24,4952,KV,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-243,SEC-1
-Research Facility 3094235,3094235,Foundations & Substructure,EPDM Membrane Roof,Replace System,2028,690495.0,13,0.3105,0.9313,10,29,2223,KV,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-479,SEC-5
-Research Facility 3094235,3094235,Interior Finishes,Chilled Water Loop,Sustainment Paint,2029,133873.0,54,0.9573,0.9553,1,26,6687,LF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-806,SEC-3
-Research Facility 3094235,3094235,Superstructure & Walls,Epoxy Floor Coating,Replace System,2030,650807.0,47,0.5002,0.5619,1,18,8921,LF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-507,SEC-3
-Research Facility 3608513,3608513,Foundations & Substructure,High-Voltage Switchgear,Replace System,2028,270746.0,85,0.4826,0.63,8,-4,829,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-228,SEC-5
-Research Facility 3608513,3608513,Superstructure & Walls,Reinforced Concrete Repair,Sustainment Paint,2030,553429.0,76,0.6786,0.9366,8,9,5384,EA,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-102,SEC-3
-Research Facility 3608513,3608513,Electrical Systems,High-Performance Glazing,Repair Deficiency,2035,368390.0,33,0.6876,0.3661,6,2,423,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-466,SEC-2
-Research Facility 3608513,3608513,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2029,75491.0,34,0.7564,0.5439,-2,3,6898,SF,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-587,SEC-4
-Research Facility 3608513,3608513,Electrical Systems,EPDM Membrane Roof,Sustainment Paint,2028,59458.0,58,0.6525,0.8966,27,9,711,LF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-758,SEC-1
-Research Facility 3608513,3608513,Foundations & Substructure,Epoxy Floor Coating,Replace System,2033,199892.0,88,0.8771,0.3929,1,26,7268,SF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-429,SEC-5
-Research Facility 3678638,3678638,Foundations & Substructure,High-Performance Glazing,Replace System,2035,735929.0,92,0.5445,0.4996,15,19,9788,LF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-617,SEC-5
-Research Facility 3678638,3678638,Interior Finishes,Reinforced Concrete Repair,Sustainment Paint,2028,152762.0,84,0.5855,0.4742,30,8,7047,KV,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-523,SEC-3
-Research Facility 3678638,3678638,Electrical Systems,Epoxy Floor Coating,Replace System,2033,666576.0,94,0.3555,0.3035,1,15,6993,LF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-483,SEC-2
-Research Facility 3678638,3678638,HVAC & Mechanical,Epoxy Floor Coating,Repair Deficiency,2028,267012.0,11,0.3482,0.5698,0,22,1583,LF,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-669,SEC-1
-Research Facility 3678638,3678638,Plumbing Systems,Chilled Water Loop,Sustainment Paint,2032,486799.0,86,0.9029,0.3188,2,21,5794,KV,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-394,SEC-5
-Research Facility 4226067,4226067,Roofing Systems,Reinforced Concrete Repair,Sustainment Paint,2035,34597.0,28,0.3639,0.6932,4,25,3675,SF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-965,SEC-5
-Research Facility 4226067,4226067,Roofing Systems,Reinforced Concrete Repair,Replace System,2030,232729.0,55,0.5231,0.4054,30,30,431,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-284,SEC-3
-Research Facility 4226067,4226067,HVAC & Mechanical,High-Voltage Switchgear,Replace System,2032,652929.0,45,0.4948,0.7018,-5,6,2348,KV,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-245,SEC-1
-Research Facility 4226067,4226067,Foundations & Substructure,Air Handling Unit,Sustainment Paint,2030,33524.0,49,0.3254,0.8594,21,24,5586,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-419,SEC-3
-Research Facility 4226067,4226067,Electrical Systems,Chilled Water Loop,Sustainment Paint,2028,359929.0,7,0.6652,0.5221,4,5,816,SF,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-553,SEC-4
-Research Facility 4226067,4226067,Interior Finishes,Chilled Water Loop,Replace System,2033,253951.0,35,0.4468,0.7236,8,27,1865,LF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-213,SEC-3
-Research Facility 4226067,4226067,HVAC & Mechanical,Air Handling Unit,Sustainment Paint,2034,614023.0,68,0.8726,0.4322,14,-3,3613,KV,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-156,SEC-1
-Research Facility 4612365,4612365,Roofing Systems,High-Performance Glazing,Repair Deficiency,2031,465394.0,38,0.7757,0.3941,15,2,127,KV,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-279,SEC-2
-Research Facility 4612365,4612365,Interior Finishes,Chilled Water Loop,Sustainment Paint,2030,96976.0,65,0.9593,0.7859,30,17,1181,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-546,SEC-1
-Research Facility 4612365,4612365,Interior Finishes,Reinforced Concrete Repair,Replace System,2033,225366.0,74,0.8407,0.4842,20,21,4744,SF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-121,SEC-3
-Research Facility 4612365,4612365,Superstructure & Walls,High-Voltage Switchgear,Sustainment Paint,2034,30751.0,89,0.8059,0.4706,18,0,7156,SF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-546,SEC-5
-Research Facility 4612365,4612365,Interior Finishes,Chilled Water Loop,Repair Deficiency,2033,34717.0,40,0.9546,0.8685,16,9,5457,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-622,SEC-1
-Research Facility 4612365,4612365,Plumbing Systems,Chilled Water Loop,Repair Deficiency,2032,747340.0,45,0.7682,0.3396,4,10,1685,EA,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-302,SEC-2
-Research Facility 4823498,4823498,Electrical Systems,High-Voltage Switchgear,Sustainment Paint,2028,179747.0,23,0.6735,0.7859,26,24,9237,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-758,SEC-5
-Research Facility 4823498,4823498,Roofing Systems,High-Voltage Switchgear,Sustainment Paint,2032,179115.0,20,0.9355,0.734,23,-1,7683,KV,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-410,SEC-3
-Research Facility 4823498,4823498,Plumbing Systems,Reinforced Concrete Repair,Replace System,2035,409216.0,10,0.8018,0.677,14,24,7405,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-477,SEC-3
-Research Facility 4823498,4823498,Foundations & Substructure,Air Handling Unit,Repair Deficiency,2035,640217.0,50,0.7964,0.3324,24,30,673,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-767,SEC-2
-Research Facility 4823498,4823498,Roofing Systems,Chilled Water Loop,Replace System,2035,514653.0,20,0.5421,0.8153,-2,23,1696,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-616,SEC-2
-Research Facility 4905582,4905582,Superstructure & Walls,Air Handling Unit,Replace System,2034,358112.0,68,0.3789,0.3313,28,5,5963,LF,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-496,SEC-4
-Research Facility 4905582,4905582,Electrical Systems,EPDM Membrane Roof,Sustainment Paint,2027,578081.0,81,0.8817,0.7785,16,-1,5402,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-794,SEC-4
-Research Facility 4905582,4905582,Roofing Systems,EPDM Membrane Roof,Sustainment Paint,2029,229007.0,43,0.3117,0.8191,0,4,5732,LF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-232,SEC-5
-Research Facility 5437923,5437923,Roofing Systems,Chilled Water Loop,Replace System,2032,123672.0,17,0.622,0.4178,28,0,6938,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-471,SEC-3
-Research Facility 5437923,5437923,Superstructure & Walls,High-Performance Glazing,Replace System,2034,61601.0,25,0.7418,0.3327,9,3,2539,SF,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-964,SEC-1
-Research Facility 5437923,5437923,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2035,737465.0,5,0.7319,0.3308,16,3,9786,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-266,SEC-2
-Research Facility 5437923,5437923,Electrical Systems,Air Handling Unit,Sustainment Paint,2029,435874.0,93,0.3104,0.9347,23,-3,6732,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-554,SEC-5
-Research Facility 5661907,5661907,Electrical Systems,Air Handling Unit,Replace System,2030,274467.0,69,0.8824,0.7479,10,14,7685,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-794,SEC-5
-Research Facility 5661907,5661907,Interior Finishes,Epoxy Floor Coating,Replace System,2033,400327.0,65,0.7188,0.9418,28,21,2656,EA,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-241,SEC-3
-Research Facility 5661907,5661907,Foundations & Substructure,Air Handling Unit,Replace System,2032,688837.0,71,0.318,0.6983,1,28,2043,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-881,SEC-2
-Research Facility 5661907,5661907,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2029,194462.0,56,0.8446,0.7605,0,9,7392,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-524,SEC-1
-Research Facility 5661907,5661907,Interior Finishes,Chilled Water Loop,Replace System,2030,538726.0,50,0.7374,0.6116,0,18,3679,SF,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-201,SEC-3
-Research Facility 5661907,5661907,Electrical Systems,High-Performance Glazing,Repair Deficiency,2027,358254.0,37,0.9402,0.5625,25,3,7686,KV,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-105,SEC-1
-Research Facility 5661907,5661907,Foundations & Substructure,EPDM Membrane Roof,Repair Deficiency,2029,40804.0,71,0.743,0.4405,28,22,1822,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-408,SEC-1
-Research Facility 5663623,5663623,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2034,154336.0,9,0.3472,0.3685,2,26,9777,SF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-627,SEC-5
-Research Facility 5663623,5663623,Superstructure & Walls,Air Handling Unit,Repair Deficiency,2031,670021.0,55,0.3265,0.7204,-5,17,3942,KV,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-780,SEC-1
-Research Facility 5663623,5663623,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2035,554138.0,70,0.3484,0.5169,27,27,9080,SF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-994,SEC-4
-Research Facility 5667265,5667265,HVAC & Mechanical,Epoxy Floor Coating,Replace System,2031,641373.0,96,0.7635,0.5316,-4,17,1107,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-850,SEC-1
-Research Facility 5667265,5667265,Electrical Systems,Chilled Water Loop,Sustainment Paint,2032,502828.0,18,0.6373,0.7712,-3,17,8946,LF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-950,SEC-4
-Research Facility 5667265,5667265,HVAC & Mechanical,Epoxy Floor Coating,Sustainment Paint,2029,159664.0,18,0.9369,0.3266,-1,24,606,LF,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-144,SEC-2
-Research Facility 5855124,5855124,Roofing Systems,EPDM Membrane Roof,Sustainment Paint,2033,63192.0,70,0.958,0.6726,25,11,600,EA,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-465,SEC-1
-Research Facility 5855124,5855124,Electrical Systems,Air Handling Unit,Replace System,2031,565544.0,16,0.8104,0.8486,18,22,6554,KV,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-447,SEC-2
-Research Facility 5855124,5855124,Interior Finishes,Air Handling Unit,Replace System,2032,116852.0,67,0.7975,0.3868,12,0,6956,SF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-716,SEC-2
-Research Facility 5918715,5918715,Roofing Systems,Reinforced Concrete Repair,Repair Deficiency,2032,73140.0,85,0.828,0.5317,13,14,7306,KV,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-806,SEC-4
-Research Facility 5918715,5918715,Roofing Systems,Epoxy Floor Coating,Repair Deficiency,2032,403073.0,79,0.6821,0.4622,22,12,940,SF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-515,SEC-3
-Research Facility 5918715,5918715,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2029,678010.0,4,0.8106,0.8131,4,23,571,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-341,SEC-3
-Research Facility 5918715,5918715,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2027,417068.0,78,0.5569,0.6633,4,23,6078,LF,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-881,SEC-1
-Research Facility 5918715,5918715,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2032,180531.0,51,0.5649,0.5024,15,12,4090,SF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-853,SEC-2
-Research Facility 5918715,5918715,Interior Finishes,Chilled Water Loop,Replace System,2035,566742.0,16,0.5647,0.3074,11,11,7312,EA,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-392,SEC-4
-Research Facility 5918715,5918715,Superstructure & Walls,Reinforced Concrete Repair,Repair Deficiency,2028,468652.0,58,0.8761,0.5413,6,23,1439,LF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-826,SEC-1
-Research Facility 6647119,6647119,Roofing Systems,High-Voltage Switchgear,Repair Deficiency,2029,61663.0,47,0.946,0.9464,27,9,1989,EA,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-342,SEC-4
-Research Facility 6647119,6647119,Foundations & Substructure,EPDM Membrane Roof,Sustainment Paint,2032,456637.0,60,0.7296,0.6049,30,3,1413,SF,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-507,SEC-4
-Research Facility 6647119,6647119,Plumbing Systems,Epoxy Floor Coating,Replace System,2028,629583.0,17,0.5235,0.7573,15,-1,7373,KV,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-452,SEC-2
-Research Facility 6647119,6647119,Electrical Systems,High-Voltage Switchgear,Sustainment Paint,2029,645112.0,99,0.8383,0.8369,3,22,8239,SF,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-630,SEC-2
-Research Facility 6647119,6647119,Roofing Systems,High-Performance Glazing,Repair Deficiency,2032,610864.0,91,0.933,0.9625,9,17,8502,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-356,SEC-2
-Research Facility 6647119,6647119,HVAC & Mechanical,Chilled Water Loop,Replace System,2029,353105.0,81,0.6737,0.6002,14,29,1531,EA,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-694,SEC-2
-Research Facility 6647119,6647119,Superstructure & Walls,Air Handling Unit,Sustainment Paint,2032,40602.0,73,0.6712,0.78,-3,-4,1331,SF,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-371,SEC-2
-Research Facility 6708456,6708456,Plumbing Systems,Air Handling Unit,Repair Deficiency,2034,629938.0,81,0.3972,0.8178,29,13,4950,KV,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-924,SEC-4
-Research Facility 6708456,6708456,Roofing Systems,Epoxy Floor Coating,Repair Deficiency,2027,234415.0,21,0.8895,0.8702,23,21,7934,KV,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-448,SEC-5
-Research Facility 6708456,6708456,Superstructure & Walls,EPDM Membrane Roof,Sustainment Paint,2032,286321.0,94,0.7767,0.3495,17,20,2143,LF,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-675,SEC-1
-Research Facility 6708456,6708456,Roofing Systems,High-Performance Glazing,Replace System,2028,357749.0,35,0.9065,0.3997,23,10,2309,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-397,SEC-4
-Research Facility 6708456,6708456,Electrical Systems,Chilled Water Loop,Replace System,2030,614880.0,21,0.3577,0.9709,15,15,3111,EA,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-627,SEC-4
-Research Facility 6708456,6708456,Interior Finishes,EPDM Membrane Roof,Replace System,2027,16307.0,12,0.8869,0.8986,20,27,7492,EA,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-697,SEC-3
-Research Facility 6708456,6708456,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2034,487508.0,77,0.9441,0.9705,25,13,8794,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-541,SEC-2
-Research Facility 6708456,6708456,Roofing Systems,Air Handling Unit,Replace System,2033,520423.0,47,0.5559,0.3568,-3,20,839,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-666,SEC-3
-Research Facility 6708456,6708456,Foundations & Substructure,Epoxy Floor Coating,Sustainment Paint,2034,205696.0,98,0.557,0.7795,30,12,1947,EA,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-503,SEC-3
-Research Facility 6770619,6770619,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2030,450845.0,78,0.5246,0.5954,27,20,8194,SF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-139,SEC-2
-Research Facility 6770619,6770619,HVAC & Mechanical,EPDM Membrane Roof,Replace System,2035,88688.0,59,0.3077,0.6187,4,27,2291,LF,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-426,SEC-2
-Research Facility 6770619,6770619,Interior Finishes,Chilled Water Loop,Sustainment Paint,2031,650749.0,76,0.8039,0.8217,16,27,8352,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-406,SEC-4
-Research Facility 6770619,6770619,Electrical Systems,Reinforced Concrete Repair,Replace System,2032,159042.0,87,0.7415,0.8073,2,21,9564,LF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-127,SEC-5
-Research Facility 6770619,6770619,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2030,504208.0,93,0.4615,0.5722,-2,25,2794,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-941,SEC-2
-Research Facility 6770619,6770619,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2028,292660.0,25,0.3564,0.6593,-4,23,5140,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-522,SEC-2
-Research Facility 6770619,6770619,Interior Finishes,Chilled Water Loop,Sustainment Paint,2034,245304.0,95,0.955,0.3083,-2,3,8499,EA,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-432,SEC-4
-Research Facility 6770619,6770619,Plumbing Systems,Epoxy Floor Coating,Replace System,2029,656483.0,59,0.6781,0.5194,29,16,8951,LF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-724,SEC-4
-Research Facility 7022674,7022674,Superstructure & Walls,EPDM Membrane Roof,Sustainment Paint,2031,488761.0,29,0.9288,0.925,14,13,3397,KV,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-591,SEC-3
-Research Facility 7022674,7022674,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2031,262247.0,37,0.6766,0.9591,2,29,6221,KV,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-891,SEC-2
-Research Facility 7022674,7022674,Roofing Systems,Reinforced Concrete Repair,Replace System,2028,640853.0,45,0.413,0.4474,23,11,7850,EA,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-947,SEC-5
-Research Facility 7022674,7022674,Roofing Systems,Chilled Water Loop,Sustainment Paint,2031,261714.0,18,0.6091,0.7267,1,10,3973,SF,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-331,SEC-2
-Research Facility 7022674,7022674,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2032,371001.0,92,0.5613,0.8012,25,1,2253,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-261,SEC-4
-Research Facility 7022674,7022674,HVAC & Mechanical,Epoxy Floor Coating,Replace System,2030,13523.0,97,0.9054,0.6098,13,15,4677,SF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-767,SEC-5
-Research Facility 7067228,7067228,Plumbing Systems,Air Handling Unit,Sustainment Paint,2027,68703.0,23,0.5282,0.4154,21,6,596,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-290,SEC-3
-Research Facility 7067228,7067228,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2028,517223.0,43,0.6153,0.5403,13,24,8902,KV,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-971,SEC-5
-Research Facility 7067228,7067228,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2028,689781.0,43,0.4808,0.545,5,24,4216,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-854,SEC-3
-Research Facility 7067228,7067228,Electrical Systems,EPDM Membrane Roof,Sustainment Paint,2030,546947.0,23,0.6082,0.322,20,22,8443,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-510,SEC-1
-Research Facility 7067228,7067228,Superstructure & Walls,High-Performance Glazing,Replace System,2032,319928.0,32,0.8534,0.7656,-5,11,6285,EA,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-871,SEC-3
-Research Facility 7067228,7067228,Roofing Systems,EPDM Membrane Roof,Sustainment Paint,2027,85344.0,34,0.3906,0.3518,18,10,1018,SF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-414,SEC-2
-Research Facility 7350753,7350753,HVAC & Mechanical,Chilled Water Loop,Sustainment Paint,2031,441161.0,89,0.9459,0.7935,2,13,6022,EA,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-236,SEC-4
-Research Facility 7350753,7350753,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2032,577778.0,54,0.925,0.3563,30,25,8807,EA,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-796,SEC-5
-Research Facility 7350753,7350753,Electrical Systems,High-Voltage Switchgear,Repair Deficiency,2035,419509.0,58,0.6751,0.4121,28,18,1280,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-948,SEC-5
-Research Facility 7350753,7350753,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2035,527803.0,20,0.556,0.8512,5,15,8526,KV,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-796,SEC-2
-Research Facility 7350753,7350753,HVAC & Mechanical,Chilled Water Loop,Replace System,2028,115316.0,66,0.5562,0.8097,23,-2,7430,EA,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-525,SEC-4
-Research Facility 7350753,7350753,Plumbing Systems,Reinforced Concrete Repair,Sustainment Paint,2034,720540.0,87,0.9595,0.8726,14,-4,6488,LF,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-863,SEC-2
-Research Facility 7350753,7350753,Plumbing Systems,Reinforced Concrete Repair,Repair Deficiency,2033,153956.0,45,0.6187,0.5821,-1,29,988,SF,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-132,SEC-3
-Research Facility 7350753,7350753,Interior Finishes,High-Performance Glazing,Repair Deficiency,2033,2904.0,48,0.3383,0.888,19,23,6185,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-799,SEC-5
-Research Facility 7350753,7350753,Superstructure & Walls,Air Handling Unit,Replace System,2028,676244.0,23,0.6634,0.8099,29,20,8665,EA,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-954,SEC-1
-Research Facility 7374122,7374122,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2035,345286.0,55,0.6777,0.8229,29,19,3763,EA,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-454,SEC-2
-Research Facility 7374122,7374122,Roofing Systems,High-Performance Glazing,Sustainment Paint,2028,7309.0,5,0.8778,0.4682,21,-4,3944,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-203,SEC-5
-Research Facility 7374122,7374122,Foundations & Substructure,Epoxy Floor Coating,Sustainment Paint,2027,452113.0,32,0.4394,0.471,-3,20,7192,EA,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-322,SEC-1
-Research Facility 7377459,7377459,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2032,318576.0,74,0.7122,0.4555,15,10,4945,EA,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-326,SEC-4
-Research Facility 7377459,7377459,Roofing Systems,EPDM Membrane Roof,Repair Deficiency,2035,302388.0,76,0.8148,0.3319,6,22,9108,KV,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-452,SEC-4
-Research Facility 7377459,7377459,Electrical Systems,Chilled Water Loop,Replace System,2033,508450.0,53,0.3772,0.7567,4,14,6168,EA,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-584,SEC-2
-Research Facility 7377459,7377459,Electrical Systems,High-Performance Glazing,Replace System,2029,191589.0,60,0.6238,0.8653,-2,30,6762,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-642,SEC-2
-Research Facility 7377459,7377459,Interior Finishes,High-Performance Glazing,Replace System,2030,689909.0,43,0.8795,0.6753,0,23,6080,SF,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-841,SEC-2
-Research Facility 8090293,8090293,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2027,633672.0,10,0.3601,0.8384,7,30,3556,KV,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-990,SEC-3
-Research Facility 8090293,8090293,Roofing Systems,Reinforced Concrete Repair,Repair Deficiency,2030,484180.0,95,0.3911,0.3196,2,25,3975,EA,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-345,SEC-5
-Research Facility 8090293,8090293,Roofing Systems,High-Voltage Switchgear,Replace System,2033,46738.0,60,0.8336,0.7348,29,17,5054,LF,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-625,SEC-4
-Research Facility 8536477,8536477,Foundations & Substructure,High-Voltage Switchgear,Sustainment Paint,2034,487950.0,98,0.4448,0.3927,15,8,6074,LF,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-146,SEC-5
-Research Facility 8536477,8536477,Electrical Systems,High-Performance Glazing,Sustainment Paint,2029,605375.0,3,0.9667,0.7135,11,30,9569,KV,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-256,SEC-2
-Research Facility 8536477,8536477,Roofing Systems,High-Performance Glazing,Replace System,2030,731413.0,64,0.5667,0.5975,30,16,4217,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-571,SEC-2
-Research Facility 8536477,8536477,HVAC & Mechanical,High-Voltage Switchgear,Replace System,2029,457602.0,18,0.7939,0.6723,29,26,3016,SF,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-134,SEC-1
-Research Facility 8536477,8536477,Electrical Systems,Air Handling Unit,Repair Deficiency,2027,306962.0,53,0.5696,0.723,3,9,1114,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-323,SEC-5
-Research Facility 8536477,8536477,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2034,255990.0,85,0.7744,0.8416,26,-4,109,KV,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-117,SEC-5
-Research Facility 8536477,8536477,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2031,510541.0,3,0.9301,0.6346,27,22,2938,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-636,SEC-2
-Research Facility 8536477,8536477,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2035,319767.0,33,0.6122,0.9664,17,12,6503,SF,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-515,SEC-4
-Research Facility 8536477,8536477,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2030,8069.0,39,0.5236,0.7307,0,-3,1532,KV,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-486,SEC-5
-Research Facility 8536477,8536477,Interior Finishes,Reinforced Concrete Repair,Sustainment Paint,2027,669875.0,90,0.5323,0.6653,5,0,8190,KV,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-679,SEC-1
-Research Facility 8707870,8707870,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2034,682074.0,35,0.3871,0.4033,-3,-1,4594,SF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-970,SEC-3
-Research Facility 8707870,8707870,Foundations & Substructure,High-Performance Glazing,Sustainment Paint,2029,669497.0,97,0.7744,0.4224,20,-1,4904,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-346,SEC-5
-Research Facility 8707870,8707870,Electrical Systems,High-Voltage Switchgear,Replace System,2035,174812.0,43,0.9098,0.6223,19,3,1285,LF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-200,SEC-4
-Research Facility 9996414,9996414,Electrical Systems,Reinforced Concrete Repair,Replace System,2033,334368.0,100,0.9617,0.7093,15,-4,4479,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-333,SEC-3
-Research Facility 9996414,9996414,Plumbing Systems,Epoxy Floor Coating,Replace System,2029,419670.0,88,0.8588,0.5347,19,0,4840,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-184,SEC-3
-Research Facility 9996414,9996414,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2029,39168.0,95,0.3216,0.6731,19,15,5910,SF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-105,SEC-3
-Research Facility 9996414,9996414,Interior Finishes,EPDM Membrane Roof,Replace System,2028,369324.0,17,0.5421,0.9081,0,6,7062,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-668,SEC-5
-Research Facility 9996414,9996414,Interior Finishes,Reinforced Concrete Repair,Repair Deficiency,2028,373108.0,46,0.6423,0.7695,30,0,9781,LF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-112,SEC-3
-Research Facility 9996414,9996414,Interior Finishes,Epoxy Floor Coating,Repair Deficiency,2035,26124.0,32,0.3628,0.6272,28,5,6238,EA,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-375,SEC-3
+Research Facility 1109031,1109031,Roofing Systems,High-Voltage Switchgear,Replace System,2031,650472.0,97,0.7961,0.7335,21,11,1342,KV,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-867,SEC-5
+Research Facility 1109031,1109031,Foundations & Substructure,EPDM Membrane Roof,Repair Deficiency,2028,27038.0,100,0.6816,0.5604,-3,-4,4052,EA,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-736,SEC-2
+Research Facility 1109031,1109031,Superstructure & Walls,High-Performance Glazing,Replace System,2028,141682.0,73,0.785,0.8173,8,24,4199,LF,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-720,SEC-5
+Research Facility 1109031,1109031,HVAC & Mechanical,Air Handling Unit,Repair Deficiency,2029,625594.0,40,0.8243,0.6358,1,-4,5112,KV,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-832,SEC-2
+Research Facility 1109031,1109031,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2030,121676.0,14,0.7833,0.3754,14,2,9273,SF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-645,SEC-4
+Research Facility 1109031,1109031,HVAC & Mechanical,EPDM Membrane Roof,Repair Deficiency,2035,550207.0,83,0.3734,0.3214,16,-5,6883,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-543,SEC-3
+Research Facility 1109031,1109031,HVAC & Mechanical,High-Voltage Switchgear,Replace System,2029,124596.0,56,0.5138,0.6458,6,28,4426,KV,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-546,SEC-5
+Research Facility 1109031,1109031,Roofing Systems,EPDM Membrane Roof,Repair Deficiency,2028,413857.0,36,0.3947,0.711,23,10,7614,KV,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-129,SEC-4
+Research Facility 1538552,1538552,Superstructure & Walls,Epoxy Floor Coating,Repair Deficiency,2032,200786.0,34,0.8138,0.4556,16,12,9768,LF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-110,SEC-5
+Research Facility 1538552,1538552,Superstructure & Walls,Reinforced Concrete Repair,Repair Deficiency,2033,327267.0,63,0.7072,0.7725,30,10,7801,KV,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-911,SEC-1
+Research Facility 1538552,1538552,Foundations & Substructure,EPDM Membrane Roof,Repair Deficiency,2033,418015.0,89,0.9322,0.8495,10,14,9529,LF,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-666,SEC-5
+Research Facility 1538552,1538552,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2035,444796.0,43,0.3717,0.6104,17,24,4439,LF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-336,SEC-1
+Research Facility 1538552,1538552,HVAC & Mechanical,High-Performance Glazing,Replace System,2028,202735.0,96,0.5832,0.9006,29,6,3139,EA,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-383,SEC-5
+Research Facility 1538552,1538552,Electrical Systems,Chilled Water Loop,Sustainment Paint,2031,544835.0,13,0.8491,0.9093,7,13,3728,LF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-409,SEC-1
+Research Facility 1538552,1538552,HVAC & Mechanical,Chilled Water Loop,Repair Deficiency,2031,571050.0,6,0.9166,0.485,-2,30,4787,EA,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-989,SEC-4
+Research Facility 1538552,1538552,Foundations & Substructure,High-Voltage Switchgear,Repair Deficiency,2031,457089.0,61,0.3004,0.5397,25,23,5583,EA,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-358,SEC-4
+Research Facility 1728977,1728977,Electrical Systems,Reinforced Concrete Repair,Replace System,2034,405190.0,10,0.3047,0.6473,-2,4,2445,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-354,SEC-1
+Research Facility 1728977,1728977,Plumbing Systems,High-Voltage Switchgear,Replace System,2030,231076.0,100,0.3815,0.5296,28,19,7382,KV,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-980,SEC-5
+Research Facility 1728977,1728977,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2027,168338.0,79,0.4144,0.4488,1,8,3458,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-260,SEC-2
+Research Facility 1728977,1728977,Superstructure & Walls,Chilled Water Loop,Repair Deficiency,2029,595628.0,1,0.5746,0.3441,21,23,9730,KV,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-133,SEC-2
+Research Facility 1768805,1768805,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2034,41853.0,10,0.9545,0.4712,9,11,9664,EA,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-217,SEC-5
+Research Facility 1768805,1768805,Superstructure & Walls,Air Handling Unit,Repair Deficiency,2031,485190.0,19,0.5046,0.4937,-1,-2,2719,LF,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-866,SEC-5
+Research Facility 1768805,1768805,Roofing Systems,Epoxy Floor Coating,Repair Deficiency,2034,95764.0,89,0.4814,0.9641,14,20,4461,KV,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-182,SEC-5
+Research Facility 1768805,1768805,Foundations & Substructure,Epoxy Floor Coating,Sustainment Paint,2032,639647.0,78,0.335,0.4895,11,-4,1497,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-701,SEC-1
+Research Facility 1768805,1768805,Electrical Systems,Air Handling Unit,Replace System,2027,272036.0,98,0.7314,0.7629,6,25,8503,KV,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-285,SEC-5
+Research Facility 1768805,1768805,Interior Finishes,Air Handling Unit,Replace System,2028,744952.0,61,0.6328,0.9702,17,21,5461,LF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-978,SEC-2
+Research Facility 1768805,1768805,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2034,483171.0,37,0.703,0.355,20,30,602,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-422,SEC-3
+Research Facility 1938483,1938483,Foundations & Substructure,High-Voltage Switchgear,Replace System,2035,112251.0,1,0.4616,0.7952,29,24,6771,SF,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-630,SEC-3
+Research Facility 1938483,1938483,Plumbing Systems,High-Voltage Switchgear,Replace System,2034,463579.0,98,0.6198,0.9687,-2,8,4376,EA,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-548,SEC-4
+Research Facility 1938483,1938483,Foundations & Substructure,Reinforced Concrete Repair,Sustainment Paint,2030,615833.0,91,0.6643,0.3614,5,14,9025,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-517,SEC-1
+Research Facility 1938483,1938483,Superstructure & Walls,High-Voltage Switchgear,Repair Deficiency,2034,420900.0,16,0.4025,0.6456,4,26,4782,LF,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-954,SEC-4
+Research Facility 1938483,1938483,Interior Finishes,High-Performance Glazing,Replace System,2035,54163.0,19,0.3277,0.7018,19,7,9821,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-382,SEC-4
+Research Facility 1938483,1938483,Roofing Systems,High-Voltage Switchgear,Sustainment Paint,2031,320894.0,1,0.4498,0.7836,13,14,9617,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-557,SEC-5
+Research Facility 1938483,1938483,Interior Finishes,EPDM Membrane Roof,Replace System,2035,144983.0,98,0.7387,0.4186,29,19,7461,LF,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-814,SEC-2
+Research Facility 1938483,1938483,Plumbing Systems,Epoxy Floor Coating,Repair Deficiency,2033,87396.0,6,0.5703,0.6521,15,25,6247,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-607,SEC-1
+Research Facility 2166941,2166941,Plumbing Systems,Chilled Water Loop,Replace System,2028,275755.0,57,0.3935,0.5319,1,28,7487,SF,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-519,SEC-2
+Research Facility 2166941,2166941,Foundations & Substructure,Epoxy Floor Coating,Replace System,2032,377205.0,80,0.9288,0.8966,20,0,5384,KV,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-741,SEC-4
+Research Facility 2166941,2166941,Electrical Systems,Chilled Water Loop,Repair Deficiency,2028,557094.0,31,0.4554,0.419,13,9,1481,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-878,SEC-1
+Research Facility 2166941,2166941,Interior Finishes,High-Performance Glazing,Sustainment Paint,2031,110012.0,4,0.6513,0.4774,-3,15,920,LF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-483,SEC-4
+Research Facility 2166941,2166941,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2033,689476.0,73,0.3633,0.9101,6,5,2869,SF,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-991,SEC-4
+Research Facility 2197935,2197935,Interior Finishes,Chilled Water Loop,Repair Deficiency,2030,120296.0,60,0.9002,0.4283,11,24,4184,SF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-394,SEC-5
+Research Facility 2197935,2197935,Superstructure & Walls,Reinforced Concrete Repair,Replace System,2032,272044.0,76,0.5375,0.7936,14,22,4098,KV,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-303,SEC-4
+Research Facility 2197935,2197935,Electrical Systems,Epoxy Floor Coating,Repair Deficiency,2030,593478.0,49,0.8823,0.5751,17,13,4838,SF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-381,SEC-1
+Research Facility 2197935,2197935,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2027,323684.0,78,0.7366,0.3572,26,13,3771,LF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-751,SEC-2
+Research Facility 2197935,2197935,Plumbing Systems,EPDM Membrane Roof,Sustainment Paint,2029,35211.0,81,0.834,0.7549,1,-3,5062,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-693,SEC-3
+Research Facility 2197935,2197935,HVAC & Mechanical,High-Performance Glazing,Repair Deficiency,2031,518849.0,42,0.3063,0.369,21,6,3290,EA,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-997,SEC-3
+Research Facility 2322047,2322047,Electrical Systems,High-Performance Glazing,Replace System,2034,739878.0,38,0.9621,0.4931,16,2,7674,SF,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-872,SEC-2
+Research Facility 2322047,2322047,Electrical Systems,Air Handling Unit,Sustainment Paint,2033,645909.0,72,0.6302,0.6049,18,0,6465,SF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-649,SEC-1
+Research Facility 2322047,2322047,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2031,314752.0,75,0.4525,0.7843,19,18,1776,EA,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-125,SEC-5
+Research Facility 2322047,2322047,Plumbing Systems,EPDM Membrane Roof,Sustainment Paint,2030,482547.0,83,0.8076,0.7418,-1,24,4952,KV,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-243,SEC-1
+Research Facility 2322047,2322047,Foundations & Substructure,EPDM Membrane Roof,Replace System,2028,441930.0,13,0.7902,0.5095,10,29,2223,KV,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-479,SEC-5
+Research Facility 2322047,2322047,Interior Finishes,Chilled Water Loop,Sustainment Paint,2029,259187.0,54,0.3637,0.55,1,26,6687,LF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-806,SEC-3
+Research Facility 2322047,2322047,Superstructure & Walls,Epoxy Floor Coating,Replace System,2030,284474.0,47,0.4703,0.7011,1,18,8921,LF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-507,SEC-3
+Research Facility 2338687,2338687,Foundations & Substructure,High-Voltage Switchgear,Replace System,2028,574121.0,85,0.5673,0.9066,8,-4,829,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-228,SEC-5
+Research Facility 2338687,2338687,Superstructure & Walls,Reinforced Concrete Repair,Sustainment Paint,2030,153310.0,76,0.5954,0.5381,8,9,5384,EA,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-102,SEC-3
+Research Facility 2338687,2338687,Electrical Systems,High-Performance Glazing,Repair Deficiency,2035,362532.0,33,0.6923,0.6349,6,2,423,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-466,SEC-2
+Research Facility 2338687,2338687,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2029,174336.0,34,0.6395,0.689,-2,3,6898,SF,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-587,SEC-4
+Research Facility 2338687,2338687,Electrical Systems,EPDM Membrane Roof,Sustainment Paint,2028,632771.0,58,0.4204,0.9395,27,9,711,LF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-758,SEC-1
+Research Facility 2338687,2338687,Foundations & Substructure,Epoxy Floor Coating,Replace System,2033,308128.0,88,0.4901,0.9008,1,26,7268,SF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-429,SEC-5
+Research Facility 2556017,2556017,Foundations & Substructure,High-Performance Glazing,Replace System,2035,690495.0,92,0.3105,0.9313,15,19,9788,LF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-617,SEC-5
+Research Facility 2556017,2556017,Interior Finishes,Reinforced Concrete Repair,Sustainment Paint,2028,133873.0,84,0.9573,0.9553,30,8,7047,KV,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-523,SEC-3
+Research Facility 2556017,2556017,Electrical Systems,Epoxy Floor Coating,Replace System,2033,650807.0,94,0.5002,0.5619,1,15,6993,LF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-483,SEC-2
+Research Facility 2556017,2556017,HVAC & Mechanical,Epoxy Floor Coating,Repair Deficiency,2028,270746.0,11,0.4826,0.63,0,22,1583,LF,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-669,SEC-1
+Research Facility 2556017,2556017,Plumbing Systems,Chilled Water Loop,Sustainment Paint,2032,553429.0,86,0.6786,0.9366,2,21,5794,KV,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-394,SEC-5
+Research Facility 2622631,2622631,Roofing Systems,Reinforced Concrete Repair,Sustainment Paint,2035,368390.0,28,0.6876,0.3661,4,25,3675,SF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-965,SEC-5
+Research Facility 2622631,2622631,Roofing Systems,Reinforced Concrete Repair,Replace System,2030,75491.0,55,0.7564,0.5439,30,30,431,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-284,SEC-3
+Research Facility 2622631,2622631,HVAC & Mechanical,High-Voltage Switchgear,Replace System,2032,59458.0,45,0.6525,0.8966,-5,6,2348,KV,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-245,SEC-1
+Research Facility 2622631,2622631,Foundations & Substructure,Air Handling Unit,Sustainment Paint,2030,199892.0,49,0.8771,0.3929,21,24,5586,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-419,SEC-3
+Research Facility 2622631,2622631,Electrical Systems,Chilled Water Loop,Sustainment Paint,2028,735929.0,7,0.5445,0.4996,4,5,816,SF,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-553,SEC-4
+Research Facility 2622631,2622631,Interior Finishes,Chilled Water Loop,Replace System,2033,152762.0,35,0.5855,0.4742,8,27,1865,LF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-213,SEC-3
+Research Facility 2622631,2622631,HVAC & Mechanical,Air Handling Unit,Sustainment Paint,2034,666576.0,68,0.3555,0.3035,14,-3,3613,KV,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-156,SEC-1
+Research Facility 2694522,2694522,Roofing Systems,High-Performance Glazing,Repair Deficiency,2031,267012.0,38,0.3482,0.5698,15,2,127,KV,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-279,SEC-2
+Research Facility 2694522,2694522,Interior Finishes,Chilled Water Loop,Sustainment Paint,2030,486799.0,65,0.9029,0.3188,30,17,1181,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-546,SEC-1
+Research Facility 2694522,2694522,Interior Finishes,Reinforced Concrete Repair,Replace System,2033,34597.0,74,0.3639,0.6932,20,21,4744,SF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-121,SEC-3
+Research Facility 2694522,2694522,Superstructure & Walls,High-Voltage Switchgear,Sustainment Paint,2034,232729.0,89,0.5231,0.4054,18,0,7156,SF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-546,SEC-5
+Research Facility 2694522,2694522,Interior Finishes,Chilled Water Loop,Repair Deficiency,2033,652929.0,40,0.4948,0.7018,16,9,5457,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-622,SEC-1
+Research Facility 2694522,2694522,Plumbing Systems,Chilled Water Loop,Repair Deficiency,2032,33524.0,45,0.3254,0.8594,4,10,1685,EA,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-302,SEC-2
+Research Facility 2714803,2714803,Electrical Systems,High-Voltage Switchgear,Sustainment Paint,2028,359929.0,23,0.6652,0.5221,26,24,9237,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-758,SEC-5
+Research Facility 2714803,2714803,Roofing Systems,High-Voltage Switchgear,Sustainment Paint,2032,253951.0,20,0.4468,0.7236,23,-1,7683,KV,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-410,SEC-3
+Research Facility 2714803,2714803,Plumbing Systems,Reinforced Concrete Repair,Replace System,2035,614023.0,10,0.8726,0.4322,14,24,7405,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-477,SEC-3
+Research Facility 2714803,2714803,Foundations & Substructure,Air Handling Unit,Repair Deficiency,2035,465394.0,50,0.7757,0.3941,24,30,673,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-767,SEC-2
+Research Facility 2714803,2714803,Roofing Systems,Chilled Water Loop,Replace System,2035,96976.0,20,0.9593,0.7859,-2,23,1696,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-616,SEC-2
+Research Facility 3094235,3094235,Superstructure & Walls,Air Handling Unit,Replace System,2034,225366.0,68,0.8407,0.4842,28,5,5963,LF,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-496,SEC-4
+Research Facility 3094235,3094235,Electrical Systems,EPDM Membrane Roof,Sustainment Paint,2027,30751.0,81,0.8059,0.4706,16,-1,5402,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-794,SEC-4
+Research Facility 3094235,3094235,Roofing Systems,EPDM Membrane Roof,Sustainment Paint,2029,34717.0,43,0.9546,0.8685,0,4,5732,LF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-232,SEC-5
+Research Facility 3608513,3608513,Roofing Systems,Chilled Water Loop,Replace System,2032,747340.0,17,0.7682,0.3396,28,0,6938,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-471,SEC-3
+Research Facility 3608513,3608513,Superstructure & Walls,High-Performance Glazing,Replace System,2034,179747.0,25,0.6735,0.7859,9,3,2539,SF,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-964,SEC-1
+Research Facility 3608513,3608513,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2035,179115.0,5,0.9355,0.734,16,3,9786,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-266,SEC-2
+Research Facility 3608513,3608513,Electrical Systems,Air Handling Unit,Sustainment Paint,2029,409216.0,93,0.8018,0.677,23,-3,6732,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-554,SEC-5
+Research Facility 3678638,3678638,Electrical Systems,Air Handling Unit,Replace System,2030,640217.0,69,0.7964,0.3324,10,14,7685,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-794,SEC-5
+Research Facility 3678638,3678638,Interior Finishes,Epoxy Floor Coating,Replace System,2033,514653.0,65,0.5421,0.8153,28,21,2656,EA,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-241,SEC-3
+Research Facility 3678638,3678638,Foundations & Substructure,Air Handling Unit,Replace System,2032,358112.0,71,0.3789,0.3313,1,28,2043,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-881,SEC-2
+Research Facility 3678638,3678638,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2029,578081.0,56,0.8817,0.7785,0,9,7392,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-524,SEC-1
+Research Facility 3678638,3678638,Interior Finishes,Chilled Water Loop,Replace System,2030,229007.0,50,0.3117,0.8191,0,18,3679,SF,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-201,SEC-3
+Research Facility 3678638,3678638,Electrical Systems,High-Performance Glazing,Repair Deficiency,2027,123672.0,37,0.622,0.4178,25,3,7686,KV,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-105,SEC-1
+Research Facility 3678638,3678638,Foundations & Substructure,EPDM Membrane Roof,Repair Deficiency,2029,61601.0,71,0.7418,0.3327,28,22,1822,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-408,SEC-1
+Research Facility 3728882,3728882,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2034,737465.0,9,0.7319,0.3308,2,26,9777,SF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-627,SEC-5
+Research Facility 3728882,3728882,Superstructure & Walls,Air Handling Unit,Repair Deficiency,2031,435874.0,55,0.3104,0.9347,-5,17,3942,KV,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-780,SEC-1
+Research Facility 3728882,3728882,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2035,274467.0,70,0.8824,0.7479,27,27,9080,SF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-994,SEC-4
+Research Facility 3741438,3741438,HVAC & Mechanical,Epoxy Floor Coating,Replace System,2031,400327.0,96,0.7188,0.9418,-4,17,1107,LF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-850,SEC-1
+Research Facility 3741438,3741438,Electrical Systems,Chilled Water Loop,Sustainment Paint,2032,688837.0,18,0.318,0.6983,-3,17,8946,LF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-950,SEC-4
+Research Facility 3741438,3741438,HVAC & Mechanical,Epoxy Floor Coating,Sustainment Paint,2029,194462.0,18,0.8446,0.7605,-1,24,606,LF,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-144,SEC-2
+Research Facility 3871230,3871230,Roofing Systems,EPDM Membrane Roof,Sustainment Paint,2033,538726.0,70,0.7374,0.6116,25,11,600,EA,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-465,SEC-1
+Research Facility 3871230,3871230,Electrical Systems,Air Handling Unit,Replace System,2031,358254.0,16,0.9402,0.5625,18,22,6554,KV,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-447,SEC-2
+Research Facility 3871230,3871230,Interior Finishes,Air Handling Unit,Replace System,2032,40804.0,67,0.743,0.4405,12,0,6956,SF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-716,SEC-2
+Research Facility 4226067,4226067,Roofing Systems,Reinforced Concrete Repair,Repair Deficiency,2032,154336.0,85,0.3472,0.3685,13,14,7306,KV,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-806,SEC-4
+Research Facility 4226067,4226067,Roofing Systems,Epoxy Floor Coating,Repair Deficiency,2032,670021.0,79,0.3265,0.7204,22,12,940,SF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-515,SEC-3
+Research Facility 4226067,4226067,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2029,554138.0,4,0.3484,0.5169,4,23,571,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-341,SEC-3
+Research Facility 4226067,4226067,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2027,641373.0,78,0.7635,0.5316,4,23,6078,LF,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-881,SEC-1
+Research Facility 4226067,4226067,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2032,502828.0,51,0.6373,0.7712,15,12,4090,SF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-853,SEC-2
+Research Facility 4226067,4226067,Interior Finishes,Chilled Water Loop,Replace System,2035,159664.0,16,0.9369,0.3266,11,11,7312,EA,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-392,SEC-4
+Research Facility 4226067,4226067,Superstructure & Walls,Reinforced Concrete Repair,Repair Deficiency,2028,63192.0,58,0.958,0.6726,6,23,1439,LF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-826,SEC-1
+Research Facility 4514944,4514944,Roofing Systems,High-Voltage Switchgear,Repair Deficiency,2029,565544.0,47,0.8104,0.8486,27,9,1989,EA,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-342,SEC-4
+Research Facility 4514944,4514944,Foundations & Substructure,EPDM Membrane Roof,Sustainment Paint,2032,116852.0,60,0.7975,0.3868,30,3,1413,SF,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-507,SEC-4
+Research Facility 4514944,4514944,Plumbing Systems,Epoxy Floor Coating,Replace System,2028,73140.0,17,0.828,0.5317,15,-1,7373,KV,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-452,SEC-2
+Research Facility 4514944,4514944,Electrical Systems,High-Voltage Switchgear,Sustainment Paint,2029,403073.0,99,0.6821,0.4622,3,22,8239,SF,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-630,SEC-2
+Research Facility 4514944,4514944,Roofing Systems,High-Performance Glazing,Repair Deficiency,2032,678010.0,91,0.8106,0.8131,9,17,8502,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-356,SEC-2
+Research Facility 4514944,4514944,HVAC & Mechanical,Chilled Water Loop,Replace System,2029,417068.0,81,0.5569,0.6633,14,29,1531,EA,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-694,SEC-2
+Research Facility 4514944,4514944,Superstructure & Walls,Air Handling Unit,Sustainment Paint,2032,180531.0,73,0.5649,0.5024,-3,-4,1331,SF,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-371,SEC-2
+Research Facility 4612365,4612365,Plumbing Systems,Air Handling Unit,Repair Deficiency,2034,566742.0,81,0.5647,0.3074,29,13,4950,KV,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-924,SEC-4
+Research Facility 4612365,4612365,Roofing Systems,Epoxy Floor Coating,Repair Deficiency,2027,468652.0,21,0.8761,0.5413,23,21,7934,KV,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-448,SEC-5
+Research Facility 4612365,4612365,Superstructure & Walls,EPDM Membrane Roof,Sustainment Paint,2032,61663.0,94,0.946,0.9464,17,20,2143,LF,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-675,SEC-1
+Research Facility 4612365,4612365,Roofing Systems,High-Performance Glazing,Replace System,2028,456637.0,35,0.7296,0.6049,23,10,2309,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-397,SEC-4
+Research Facility 4612365,4612365,Electrical Systems,Chilled Water Loop,Replace System,2030,629583.0,21,0.5235,0.7573,15,15,3111,EA,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-627,SEC-4
+Research Facility 4612365,4612365,Interior Finishes,EPDM Membrane Roof,Replace System,2027,645112.0,12,0.8383,0.8369,20,27,7492,EA,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-697,SEC-3
+Research Facility 4612365,4612365,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2034,610864.0,77,0.933,0.9625,25,13,8794,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-541,SEC-2
+Research Facility 4612365,4612365,Roofing Systems,Air Handling Unit,Replace System,2033,353105.0,47,0.6737,0.6002,-3,20,839,EA,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-666,SEC-3
+Research Facility 4612365,4612365,Foundations & Substructure,Epoxy Floor Coating,Sustainment Paint,2034,40602.0,98,0.6712,0.78,30,12,1947,EA,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-503,SEC-3
+Research Facility 4684531,4684531,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2030,629938.0,78,0.3972,0.8178,27,20,8194,SF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-139,SEC-2
+Research Facility 4684531,4684531,HVAC & Mechanical,EPDM Membrane Roof,Replace System,2035,234415.0,59,0.8895,0.8702,4,27,2291,LF,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-426,SEC-2
+Research Facility 4684531,4684531,Interior Finishes,Chilled Water Loop,Sustainment Paint,2031,286321.0,76,0.7767,0.3495,16,27,8352,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-406,SEC-4
+Research Facility 4684531,4684531,Electrical Systems,Reinforced Concrete Repair,Replace System,2032,357749.0,87,0.9065,0.3997,2,21,9564,LF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-127,SEC-5
+Research Facility 4684531,4684531,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2030,614880.0,93,0.3577,0.9709,-2,25,2794,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-941,SEC-2
+Research Facility 4684531,4684531,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2028,16307.0,25,0.8869,0.8986,-4,23,5140,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-522,SEC-2
+Research Facility 4684531,4684531,Interior Finishes,Chilled Water Loop,Sustainment Paint,2034,487508.0,95,0.9441,0.9705,-2,3,8499,EA,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-432,SEC-4
+Research Facility 4684531,4684531,Plumbing Systems,Epoxy Floor Coating,Replace System,2029,520423.0,59,0.5559,0.3568,29,16,8951,LF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-724,SEC-4
+Research Facility 4823498,4823498,Superstructure & Walls,EPDM Membrane Roof,Sustainment Paint,2031,205696.0,29,0.557,0.7795,14,13,3397,KV,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-591,SEC-3
+Research Facility 4823498,4823498,Plumbing Systems,High-Voltage Switchgear,Sustainment Paint,2031,450845.0,37,0.5246,0.5954,2,29,6221,KV,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-891,SEC-2
+Research Facility 4823498,4823498,Roofing Systems,Reinforced Concrete Repair,Replace System,2028,88688.0,45,0.3077,0.6187,23,11,7850,EA,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-947,SEC-5
+Research Facility 4823498,4823498,Roofing Systems,Chilled Water Loop,Sustainment Paint,2031,650749.0,18,0.8039,0.8217,1,10,3973,SF,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-331,SEC-2
+Research Facility 4823498,4823498,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2032,159042.0,92,0.7415,0.8073,25,1,2253,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-261,SEC-4
+Research Facility 4823498,4823498,HVAC & Mechanical,Epoxy Floor Coating,Replace System,2030,504208.0,97,0.4615,0.5722,13,15,4677,SF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-767,SEC-5
+Research Facility 4842788,4842788,Plumbing Systems,Air Handling Unit,Sustainment Paint,2027,292660.0,23,0.3564,0.6593,21,6,596,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-290,SEC-3
+Research Facility 4842788,4842788,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2028,245304.0,43,0.955,0.3083,13,24,8902,KV,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-971,SEC-5
+Research Facility 4842788,4842788,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2028,656483.0,43,0.6781,0.5194,5,24,4216,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-854,SEC-3
+Research Facility 4842788,4842788,Electrical Systems,EPDM Membrane Roof,Sustainment Paint,2030,488761.0,23,0.9288,0.925,20,22,8443,LF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-510,SEC-1
+Research Facility 4842788,4842788,Superstructure & Walls,High-Performance Glazing,Replace System,2032,262247.0,32,0.6766,0.9591,-5,11,6285,EA,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-871,SEC-3
+Research Facility 4842788,4842788,Roofing Systems,EPDM Membrane Roof,Sustainment Paint,2027,640853.0,34,0.413,0.4474,18,10,1018,SF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-414,SEC-2
+Research Facility 4905582,4905582,HVAC & Mechanical,Chilled Water Loop,Sustainment Paint,2031,261714.0,89,0.6091,0.7267,2,13,6022,EA,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-236,SEC-4
+Research Facility 4905582,4905582,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2032,371001.0,54,0.5613,0.8012,30,25,8807,EA,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-796,SEC-5
+Research Facility 4905582,4905582,Electrical Systems,High-Voltage Switchgear,Repair Deficiency,2035,13523.0,58,0.9054,0.6098,28,18,1280,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-948,SEC-5
+Research Facility 4905582,4905582,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2035,68703.0,20,0.5282,0.4154,5,15,8526,KV,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-796,SEC-2
+Research Facility 4905582,4905582,HVAC & Mechanical,Chilled Water Loop,Replace System,2028,517223.0,66,0.6153,0.5403,23,-2,7430,EA,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-525,SEC-4
+Research Facility 4905582,4905582,Plumbing Systems,Reinforced Concrete Repair,Sustainment Paint,2034,689781.0,87,0.4808,0.545,14,-4,6488,LF,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-863,SEC-2
+Research Facility 4905582,4905582,Plumbing Systems,Reinforced Concrete Repair,Repair Deficiency,2033,546947.0,45,0.6082,0.322,-1,29,988,SF,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-132,SEC-3
+Research Facility 4905582,4905582,Interior Finishes,High-Performance Glazing,Repair Deficiency,2033,319928.0,48,0.8534,0.7656,19,23,6185,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-799,SEC-5
+Research Facility 4905582,4905582,Superstructure & Walls,Air Handling Unit,Replace System,2028,85344.0,23,0.3906,0.3518,29,20,8665,EA,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-954,SEC-1
+Research Facility 5107245,5107245,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2035,441161.0,55,0.9459,0.7935,29,19,3763,EA,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-454,SEC-2
+Research Facility 5107245,5107245,Roofing Systems,High-Performance Glazing,Sustainment Paint,2028,577778.0,5,0.925,0.3563,21,-4,3944,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-203,SEC-5
+Research Facility 5107245,5107245,Foundations & Substructure,Epoxy Floor Coating,Sustainment Paint,2027,419509.0,32,0.6751,0.4121,-3,20,7192,EA,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-322,SEC-1
+Research Facility 5437923,5437923,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2032,527803.0,74,0.556,0.8512,15,10,4945,EA,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-326,SEC-4
+Research Facility 5437923,5437923,Roofing Systems,EPDM Membrane Roof,Repair Deficiency,2035,115316.0,76,0.5562,0.8097,6,22,9108,KV,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-452,SEC-4
+Research Facility 5437923,5437923,Electrical Systems,Chilled Water Loop,Replace System,2033,720540.0,53,0.9595,0.8726,4,14,6168,EA,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-584,SEC-2
+Research Facility 5437923,5437923,Electrical Systems,High-Performance Glazing,Replace System,2029,153956.0,60,0.6187,0.5821,-2,30,6762,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-642,SEC-2
+Research Facility 5437923,5437923,Interior Finishes,High-Performance Glazing,Replace System,2030,2904.0,43,0.3383,0.888,0,23,6080,SF,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-841,SEC-2
+Research Facility 5479144,5479144,Roofing Systems,Epoxy Floor Coating,Sustainment Paint,2027,676244.0,10,0.6634,0.8099,7,30,3556,KV,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-990,SEC-3
+Research Facility 5479144,5479144,Roofing Systems,Reinforced Concrete Repair,Repair Deficiency,2030,345286.0,95,0.6777,0.8229,2,25,3975,EA,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-345,SEC-5
+Research Facility 5479144,5479144,Roofing Systems,High-Voltage Switchgear,Replace System,2033,7309.0,60,0.8778,0.4682,29,17,5054,LF,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-625,SEC-4
+Research Facility 5528972,5528972,Foundations & Substructure,High-Voltage Switchgear,Sustainment Paint,2034,452113.0,98,0.4394,0.471,15,8,6074,LF,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-146,SEC-5
+Research Facility 5528972,5528972,Electrical Systems,High-Performance Glazing,Sustainment Paint,2029,318576.0,3,0.7122,0.4555,11,30,9569,KV,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-256,SEC-2
+Research Facility 5528972,5528972,Roofing Systems,High-Performance Glazing,Replace System,2030,302388.0,64,0.8148,0.3319,30,16,4217,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-571,SEC-2
+Research Facility 5528972,5528972,HVAC & Mechanical,High-Voltage Switchgear,Replace System,2029,508450.0,18,0.3772,0.7567,29,26,3016,SF,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-134,SEC-1
+Research Facility 5528972,5528972,Electrical Systems,Air Handling Unit,Repair Deficiency,2027,191589.0,53,0.6238,0.8653,3,9,1114,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-323,SEC-5
+Research Facility 5528972,5528972,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2034,689909.0,85,0.8795,0.6753,26,-4,109,KV,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-117,SEC-5
+Research Facility 5528972,5528972,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2031,633672.0,3,0.3601,0.8384,27,22,2938,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-636,SEC-2
+Research Facility 5528972,5528972,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2035,484180.0,33,0.3911,0.3196,17,12,6503,SF,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-515,SEC-4
+Research Facility 5528972,5528972,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2030,46738.0,39,0.8336,0.7348,0,-3,1532,KV,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-486,SEC-5
+Research Facility 5528972,5528972,Interior Finishes,Reinforced Concrete Repair,Sustainment Paint,2027,487950.0,90,0.4448,0.3927,5,0,8190,KV,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-679,SEC-1
+Research Facility 5661907,5661907,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2034,605375.0,35,0.9667,0.7135,-3,-1,4594,SF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-970,SEC-3
+Research Facility 5661907,5661907,Foundations & Substructure,High-Performance Glazing,Sustainment Paint,2029,731413.0,97,0.5667,0.5975,20,-1,4904,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-346,SEC-5
+Research Facility 5661907,5661907,Electrical Systems,High-Voltage Switchgear,Replace System,2035,457602.0,43,0.7939,0.6723,19,3,1285,LF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-200,SEC-4
+Research Facility 5663623,5663623,Electrical Systems,Reinforced Concrete Repair,Replace System,2033,306962.0,100,0.5696,0.723,15,-4,4479,KV,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-333,SEC-3
+Research Facility 5663623,5663623,Plumbing Systems,Epoxy Floor Coating,Replace System,2029,255990.0,88,0.7744,0.8416,19,0,4840,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-184,SEC-3
+Research Facility 5663623,5663623,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2029,510541.0,95,0.9301,0.6346,19,15,5910,SF,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-105,SEC-3
+Research Facility 5663623,5663623,Interior Finishes,EPDM Membrane Roof,Replace System,2028,319767.0,17,0.6122,0.9664,0,6,7062,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-668,SEC-5
+Research Facility 5663623,5663623,Interior Finishes,Reinforced Concrete Repair,Repair Deficiency,2028,8069.0,46,0.5236,0.7307,30,0,9781,LF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-112,SEC-3
+Research Facility 5663623,5663623,Interior Finishes,Epoxy Floor Coating,Repair Deficiency,2035,669875.0,32,0.5323,0.6653,28,5,6238,EA,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-375,SEC-3
+Research Facility 5667265,5667265,Interior Finishes,High-Performance Glazing,Repair Deficiency,2029,682074.0,56,0.3871,0.4033,12,21,4912,KV,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-469,SEC-3
+Research Facility 5667265,5667265,Superstructure & Walls,Air Handling Unit,Sustainment Paint,2034,669497.0,77,0.7744,0.4224,7,24,1753,EA,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-106,SEC-4
+Research Facility 5667265,5667265,Roofing Systems,High-Voltage Switchgear,Sustainment Paint,2033,174812.0,43,0.9098,0.6223,23,16,7056,EA,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-428,SEC-5
+Research Facility 5667265,5667265,HVAC & Mechanical,High-Performance Glazing,Replace System,2032,334368.0,23,0.9617,0.7093,20,15,4776,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-900,SEC-2
+Research Facility 5667265,5667265,Roofing Systems,Epoxy Floor Coating,Replace System,2033,419670.0,47,0.8588,0.5347,2,7,9704,EA,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-127,SEC-4
+Research Facility 5667265,5667265,HVAC & Mechanical,High-Performance Glazing,Replace System,2031,39168.0,89,0.3216,0.6731,-1,21,8181,EA,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-410,SEC-2
+Research Facility 5667265,5667265,Roofing Systems,Air Handling Unit,Repair Deficiency,2033,369324.0,49,0.5421,0.9081,-1,23,9797,KV,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-510,SEC-5
+Research Facility 5855124,5855124,Plumbing Systems,Reinforced Concrete Repair,Replace System,2035,373108.0,77,0.6423,0.7695,0,1,4068,LF,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-762,SEC-5
+Research Facility 5855124,5855124,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2033,26124.0,97,0.3628,0.6272,16,22,1736,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-364,SEC-2
+Research Facility 5855124,5855124,Plumbing Systems,Air Handling Unit,Sustainment Paint,2035,176793.0,75,0.3556,0.894,9,23,6130,KV,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-890,SEC-5
+Research Facility 5855124,5855124,HVAC & Mechanical,Chilled Water Loop,Repair Deficiency,2032,383475.0,4,0.3415,0.4883,25,1,4841,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-218,SEC-2
+Research Facility 5855124,5855124,Roofing Systems,EPDM Membrane Roof,Replace System,2034,212676.0,27,0.3575,0.7061,28,25,5707,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-548,SEC-4
+Research Facility 5855124,5855124,Roofing Systems,Reinforced Concrete Repair,Replace System,2027,745591.0,91,0.4424,0.5519,2,-4,5621,SF,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-858,SEC-2
+Research Facility 5855124,5855124,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2029,638105.0,43,0.4606,0.8168,30,22,7571,EA,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-744,SEC-2
+Research Facility 5855124,5855124,Superstructure & Walls,Air Handling Unit,Sustainment Paint,2033,70161.0,51,0.6145,0.8083,-4,7,7366,KV,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-104,SEC-2
+Research Facility 5855124,5855124,Superstructure & Walls,EPDM Membrane Roof,Sustainment Paint,2028,269265.0,74,0.4005,0.3905,1,29,3064,LF,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-301,SEC-4
+Research Facility 5918715,5918715,Roofing Systems,Air Handling Unit,Replace System,2035,662982.0,82,0.9087,0.6479,15,19,6432,SF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-460,SEC-4
+Research Facility 5918715,5918715,Plumbing Systems,High-Performance Glazing,Sustainment Paint,2031,565426.0,79,0.3207,0.8897,0,3,5132,SF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-412,SEC-1
+Research Facility 5918715,5918715,Superstructure & Walls,EPDM Membrane Roof,Sustainment Paint,2029,615657.0,66,0.6622,0.4649,19,21,9772,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-492,SEC-4
+Research Facility 5918715,5918715,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2035,434234.0,89,0.5566,0.3136,6,30,2734,KV,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-243,SEC-2
+Research Facility 6292423,6292423,Electrical Systems,Epoxy Floor Coating,Sustainment Paint,2027,250236.0,46,0.8717,0.3607,-5,26,2237,EA,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-675,SEC-5
+Research Facility 6292423,6292423,HVAC & Mechanical,Epoxy Floor Coating,Replace System,2034,574703.0,54,0.4586,0.5332,23,26,2741,SF,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-131,SEC-2
+Research Facility 6292423,6292423,Roofing Systems,Reinforced Concrete Repair,Replace System,2030,401884.0,69,0.7618,0.8366,13,5,7493,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-623,SEC-1
+Research Facility 6292423,6292423,Plumbing Systems,Reinforced Concrete Repair,Replace System,2035,651824.0,47,0.6261,0.6973,29,-3,7232,EA,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-204,SEC-2
+Research Facility 6292423,6292423,Roofing Systems,High-Voltage Switchgear,Repair Deficiency,2034,28569.0,34,0.6991,0.8069,17,0,7194,SF,Direct Visual,75,Synthetic DOE Assessor Comment,CAIS-314,SEC-5
+Research Facility 6292423,6292423,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2033,83764.0,22,0.6838,0.5576,3,8,3391,SF,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-459,SEC-5
+Research Facility 6292423,6292423,Roofing Systems,Chilled Water Loop,Sustainment Paint,2029,193576.0,42,0.5469,0.7392,13,13,9384,LF,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-795,SEC-1
+Research Facility 6292423,6292423,Superstructure & Walls,High-Voltage Switchgear,Replace System,2027,602491.0,36,0.6388,0.5246,3,3,4091,EA,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-948,SEC-2
+Research Facility 6440561,6440561,Interior Finishes,High-Performance Glazing,Sustainment Paint,2031,423740.0,81,0.4613,0.3692,21,19,7406,SF,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-913,SEC-1
+Research Facility 6440561,6440561,Interior Finishes,Chilled Water Loop,Sustainment Paint,2031,118921.0,89,0.5484,0.6317,18,24,7997,LF,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-102,SEC-1
+Research Facility 6440561,6440561,HVAC & Mechanical,Epoxy Floor Coating,Sustainment Paint,2032,189710.0,9,0.3598,0.848,29,20,3569,KV,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-606,SEC-3
+Research Facility 6440561,6440561,Roofing Systems,High-Voltage Switchgear,Replace System,2032,161018.0,71,0.8728,0.3351,3,26,5632,SF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-201,SEC-4
+Research Facility 6440561,6440561,Foundations & Substructure,Reinforced Concrete Repair,Repair Deficiency,2034,543177.0,59,0.5705,0.9592,-5,22,3315,EA,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-262,SEC-3
+Research Facility 6440561,6440561,Foundations & Substructure,Air Handling Unit,Replace System,2031,125383.0,11,0.3036,0.963,18,5,849,KV,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-412,SEC-2
+Research Facility 6440561,6440561,Interior Finishes,Air Handling Unit,Repair Deficiency,2028,114721.0,1,0.4162,0.7547,8,25,1277,EA,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-331,SEC-5
+Research Facility 6440561,6440561,HVAC & Mechanical,Epoxy Floor Coating,Repair Deficiency,2027,527634.0,90,0.6638,0.6241,16,2,6920,EA,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-172,SEC-2
+Research Facility 6440561,6440561,Interior Finishes,Reinforced Concrete Repair,Sustainment Paint,2028,140041.0,14,0.9582,0.7834,15,18,4903,EA,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-892,SEC-2
+Research Facility 6647119,6647119,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2027,191639.0,79,0.6452,0.4648,5,23,5754,EA,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-866,SEC-2
+Research Facility 6647119,6647119,Interior Finishes,Chilled Water Loop,Sustainment Paint,2034,392178.0,28,0.7809,0.8221,0,1,2294,SF,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-847,SEC-4
+Research Facility 6647119,6647119,Roofing Systems,Epoxy Floor Coating,Replace System,2029,569321.0,32,0.6952,0.405,12,0,4066,LF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-968,SEC-3
+Research Facility 6647119,6647119,Superstructure & Walls,Chilled Water Loop,Sustainment Paint,2035,369936.0,25,0.6622,0.3352,20,13,895,EA,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-495,SEC-1
+Research Facility 6647119,6647119,Superstructure & Walls,Epoxy Floor Coating,Sustainment Paint,2028,717243.0,68,0.3914,0.3431,-5,18,5186,EA,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-981,SEC-5
+Research Facility 6708456,6708456,Roofing Systems,Chilled Water Loop,Sustainment Paint,2029,304453.0,98,0.5192,0.8507,25,-1,274,SF,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-368,SEC-2
+Research Facility 6708456,6708456,Foundations & Substructure,Reinforced Concrete Repair,Replace System,2035,11012.0,37,0.3944,0.3018,27,21,6940,KV,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-755,SEC-5
+Research Facility 6708456,6708456,Plumbing Systems,Chilled Water Loop,Repair Deficiency,2031,95570.0,11,0.6207,0.5801,14,0,8378,EA,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-649,SEC-3
+Research Facility 6708456,6708456,Interior Finishes,Chilled Water Loop,Sustainment Paint,2028,44578.0,40,0.9321,0.8648,22,10,949,EA,Direct Visual,65,Synthetic DOE Assessor Comment,CAIS-544,SEC-1
+Research Facility 6708456,6708456,Interior Finishes,Chilled Water Loop,Sustainment Paint,2027,307573.0,40,0.3845,0.797,6,2,208,EA,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-267,SEC-4
+Research Facility 6708456,6708456,Roofing Systems,Chilled Water Loop,Sustainment Paint,2031,466508.0,22,0.4394,0.5579,18,3,4404,SF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-443,SEC-4
+Research Facility 6708456,6708456,Roofing Systems,Chilled Water Loop,Repair Deficiency,2031,663275.0,92,0.7907,0.3327,-1,26,7458,LF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-611,SEC-5
+Research Facility 6708456,6708456,Superstructure & Walls,EPDM Membrane Roof,Repair Deficiency,2031,89888.0,99,0.395,0.8408,1,2,3743,SF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-979,SEC-1
+Research Facility 6708456,6708456,Superstructure & Walls,Reinforced Concrete Repair,Replace System,2032,353505.0,50,0.8611,0.4268,4,6,580,KV,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-429,SEC-2
+Research Facility 6770619,6770619,HVAC & Mechanical,EPDM Membrane Roof,Replace System,2028,414998.0,74,0.7523,0.6557,18,2,8226,SF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-328,SEC-5
+Research Facility 6770619,6770619,Foundations & Substructure,Epoxy Floor Coating,Repair Deficiency,2034,150556.0,37,0.8965,0.5669,14,15,1416,KV,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-477,SEC-2
+Research Facility 6770619,6770619,Roofing Systems,Chilled Water Loop,Replace System,2030,192779.0,60,0.5986,0.5563,18,26,3202,EA,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-106,SEC-4
+Research Facility 6770619,6770619,Foundations & Substructure,High-Performance Glazing,Sustainment Paint,2032,145526.0,82,0.7244,0.6671,-5,16,24,KV,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-206,SEC-2
+Research Facility 6770619,6770619,Plumbing Systems,High-Performance Glazing,Replace System,2034,105474.0,8,0.6418,0.4579,4,12,1525,SF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-965,SEC-5
+Research Facility 6770619,6770619,Interior Finishes,Air Handling Unit,Replace System,2034,691876.0,96,0.5662,0.6617,0,1,8281,EA,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-939,SEC-4
+Research Facility 6770619,6770619,Foundations & Substructure,Chilled Water Loop,Sustainment Paint,2027,94763.0,56,0.7245,0.3795,3,10,4779,LF,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-920,SEC-4
+Research Facility 6770619,6770619,HVAC & Mechanical,High-Voltage Switchgear,Sustainment Paint,2032,581705.0,41,0.5263,0.7968,23,12,3828,SF,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-239,SEC-5
+Research Facility 6770619,6770619,Foundations & Substructure,High-Performance Glazing,Repair Deficiency,2029,492525.0,58,0.3947,0.8399,24,15,6661,SF,Direct Visual,94,Synthetic DOE Assessor Comment,CAIS-466,SEC-2
+Research Facility 6960453,6960453,Roofing Systems,Epoxy Floor Coating,Replace System,2028,270052.0,12,0.6628,0.9078,5,14,9885,SF,Direct Visual,73,Synthetic DOE Assessor Comment,CAIS-955,SEC-3
+Research Facility 6960453,6960453,Superstructure & Walls,Reinforced Concrete Repair,Sustainment Paint,2030,101223.0,46,0.9784,0.8116,20,27,803,LF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-939,SEC-2
+Research Facility 6960453,6960453,Foundations & Substructure,Epoxy Floor Coating,Replace System,2035,34654.0,96,0.8059,0.3228,30,10,1552,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-923,SEC-2
+Research Facility 6960453,6960453,Foundations & Substructure,Reinforced Concrete Repair,Repair Deficiency,2030,283673.0,17,0.7856,0.6359,7,20,6099,SF,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-700,SEC-3
+Research Facility 6960453,6960453,Electrical Systems,Reinforced Concrete Repair,Repair Deficiency,2028,177444.0,26,0.37,0.6648,23,3,1507,LF,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-143,SEC-4
+Research Facility 6960453,6960453,Foundations & Substructure,High-Performance Glazing,Sustainment Paint,2033,687346.0,93,0.8756,0.3867,20,26,484,KV,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-276,SEC-3
+Research Facility 6960453,6960453,Superstructure & Walls,High-Performance Glazing,Replace System,2031,305275.0,58,0.6416,0.6671,4,-3,4027,LF,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-521,SEC-5
+Research Facility 6960453,6960453,Interior Finishes,Reinforced Concrete Repair,Repair Deficiency,2031,128608.0,50,0.4559,0.7911,3,21,3268,EA,Direct Visual,100,Synthetic DOE Assessor Comment,CAIS-921,SEC-5
+Research Facility 6960453,6960453,Electrical Systems,Reinforced Concrete Repair,Replace System,2032,285253.0,62,0.3083,0.7069,29,26,5637,LF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-376,SEC-2
+Research Facility 6960453,6960453,Foundations & Substructure,EPDM Membrane Roof,Sustainment Paint,2030,340327.0,4,0.6691,0.4712,12,-2,7729,LF,Direct Visual,97,Synthetic DOE Assessor Comment,CAIS-338,SEC-2
+Research Facility 7022674,7022674,Superstructure & Walls,Air Handling Unit,Repair Deficiency,2031,598103.0,69,0.4235,0.9177,-2,9,9433,KV,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-959,SEC-2
+Research Facility 7022674,7022674,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2032,603113.0,95,0.4546,0.588,17,-4,5762,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-292,SEC-4
+Research Facility 7022674,7022674,Plumbing Systems,EPDM Membrane Roof,Repair Deficiency,2034,379677.0,5,0.9442,0.4043,0,-2,3812,EA,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-639,SEC-4
+Research Facility 7022674,7022674,Foundations & Substructure,EPDM Membrane Roof,Sustainment Paint,2030,209488.0,17,0.3946,0.3685,16,6,5302,SF,Direct Visual,61,Synthetic DOE Assessor Comment,CAIS-251,SEC-5
+Research Facility 7067228,7067228,Electrical Systems,Reinforced Concrete Repair,Sustainment Paint,2032,673188.0,10,0.3123,0.893,18,20,9602,SF,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-409,SEC-3
+Research Facility 7067228,7067228,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2033,697775.0,82,0.6843,0.7737,26,15,2855,LF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-781,SEC-5
+Research Facility 7067228,7067228,Electrical Systems,High-Performance Glazing,Replace System,2031,587067.0,94,0.3157,0.7429,13,3,2912,SF,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-500,SEC-5
+Research Facility 7067228,7067228,Foundations & Substructure,High-Performance Glazing,Sustainment Paint,2032,30132.0,79,0.6919,0.7126,9,1,8130,EA,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-863,SEC-1
+Research Facility 7067228,7067228,Superstructure & Walls,EPDM Membrane Roof,Replace System,2029,253369.0,82,0.3526,0.3709,0,16,7318,SF,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-314,SEC-2
+Research Facility 7120868,7120868,Roofing Systems,EPDM Membrane Roof,Repair Deficiency,2027,464620.0,7,0.9294,0.6066,19,23,6876,EA,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-604,SEC-4
+Research Facility 7120868,7120868,Roofing Systems,Chilled Water Loop,Replace System,2028,286760.0,62,0.9697,0.8705,9,5,7394,SF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-401,SEC-1
+Research Facility 7120868,7120868,Roofing Systems,EPDM Membrane Roof,Repair Deficiency,2028,650873.0,44,0.8695,0.5259,5,19,2637,SF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-195,SEC-3
+Research Facility 7120868,7120868,Plumbing Systems,Chilled Water Loop,Replace System,2027,711033.0,56,0.6528,0.7021,5,22,2574,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-439,SEC-2
+Research Facility 7210606,7210606,Interior Finishes,Air Handling Unit,Sustainment Paint,2035,332888.0,34,0.5579,0.8061,13,14,3892,SF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-502,SEC-5
+Research Facility 7210606,7210606,Plumbing Systems,High-Voltage Switchgear,Replace System,2029,60045.0,7,0.8459,0.3031,18,-5,7006,SF,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-943,SEC-5
+Research Facility 7210606,7210606,Interior Finishes,High-Performance Glazing,Repair Deficiency,2027,15724.0,27,0.3777,0.5819,5,13,1343,KV,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-415,SEC-4
+Research Facility 7210606,7210606,Interior Finishes,Epoxy Floor Coating,Sustainment Paint,2031,469225.0,12,0.5355,0.5359,29,19,3030,LF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-478,SEC-2
+Research Facility 7210606,7210606,Interior Finishes,Reinforced Concrete Repair,Replace System,2034,301012.0,60,0.6992,0.3223,11,9,4401,SF,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-870,SEC-1
+Research Facility 7210606,7210606,Foundations & Substructure,Air Handling Unit,Replace System,2035,654526.0,53,0.3958,0.4199,9,30,1000,KV,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-528,SEC-5
+Research Facility 7350753,7350753,Plumbing Systems,High-Performance Glazing,Replace System,2031,332170.0,11,0.4125,0.323,20,-3,8227,EA,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-875,SEC-4
+Research Facility 7350753,7350753,Superstructure & Walls,High-Performance Glazing,Repair Deficiency,2030,385652.0,17,0.8307,0.4888,-3,22,1284,KV,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-942,SEC-2
+Research Facility 7350753,7350753,Electrical Systems,Chilled Water Loop,Replace System,2032,545885.0,94,0.3089,0.7512,-1,0,6359,KV,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-433,SEC-3
+Research Facility 7350753,7350753,Plumbing Systems,Epoxy Floor Coating,Repair Deficiency,2035,249226.0,54,0.9634,0.6121,2,21,2452,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-702,SEC-5
+Research Facility 7350753,7350753,Electrical Systems,Reinforced Concrete Repair,Repair Deficiency,2028,317497.0,37,0.8852,0.6638,29,17,6733,LF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-770,SEC-4
+Research Facility 7350753,7350753,Plumbing Systems,Chilled Water Loop,Replace System,2027,589611.0,23,0.6415,0.7049,12,20,2357,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-505,SEC-3
+Research Facility 7350753,7350753,HVAC & Mechanical,High-Performance Glazing,Repair Deficiency,2034,437665.0,35,0.81,0.4427,18,-4,5536,LF,Direct Visual,79,Synthetic DOE Assessor Comment,CAIS-387,SEC-4
+Research Facility 7350753,7350753,Electrical Systems,Air Handling Unit,Sustainment Paint,2028,453782.0,30,0.5376,0.6184,3,14,7260,LF,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-846,SEC-4
+Research Facility 7350753,7350753,Plumbing Systems,Air Handling Unit,Repair Deficiency,2030,744304.0,57,0.5569,0.8689,8,21,7938,LF,Direct Visual,63,Synthetic DOE Assessor Comment,CAIS-627,SEC-2
+Research Facility 7350753,7350753,Foundations & Substructure,EPDM Membrane Roof,Sustainment Paint,2035,222678.0,52,0.3447,0.8274,3,28,9318,SF,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-297,SEC-2
+Research Facility 7366205,7366205,Superstructure & Walls,Reinforced Concrete Repair,Replace System,2027,706162.0,47,0.6588,0.6634,7,12,6036,KV,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-506,SEC-1
+Research Facility 7366205,7366205,HVAC & Mechanical,Reinforced Concrete Repair,Repair Deficiency,2032,564788.0,63,0.5725,0.6806,23,6,7776,LF,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-267,SEC-3
+Research Facility 7366205,7366205,HVAC & Mechanical,High-Voltage Switchgear,Sustainment Paint,2028,188740.0,37,0.5274,0.3513,-4,19,814,EA,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-898,SEC-2
+Research Facility 7374122,7374122,HVAC & Mechanical,High-Performance Glazing,Sustainment Paint,2030,313414.0,35,0.5539,0.4841,21,27,329,SF,Direct Visual,90,Synthetic DOE Assessor Comment,CAIS-235,SEC-2
+Research Facility 7374122,7374122,Plumbing Systems,High-Voltage Switchgear,Repair Deficiency,2030,186175.0,33,0.8445,0.9657,14,12,6944,KV,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-570,SEC-3
+Research Facility 7374122,7374122,Superstructure & Walls,Epoxy Floor Coating,Replace System,2035,654965.0,80,0.8896,0.5774,20,1,121,LF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-762,SEC-5
+Research Facility 7374122,7374122,Plumbing Systems,EPDM Membrane Roof,Replace System,2028,210106.0,62,0.4726,0.4334,-1,16,4530,LF,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-367,SEC-3
+Research Facility 7374122,7374122,Superstructure & Walls,High-Performance Glazing,Sustainment Paint,2030,590018.0,8,0.3134,0.3708,20,15,2293,SF,Direct Visual,91,Synthetic DOE Assessor Comment,CAIS-402,SEC-3
+Research Facility 7374122,7374122,Interior Finishes,Epoxy Floor Coating,Replace System,2027,480946.0,75,0.6872,0.9035,7,16,3644,KV,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-619,SEC-3
+Research Facility 7377459,7377459,Electrical Systems,Air Handling Unit,Sustainment Paint,2029,350239.0,38,0.462,0.3676,1,25,2097,LF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-881,SEC-2
+Research Facility 7377459,7377459,HVAC & Mechanical,EPDM Membrane Roof,Sustainment Paint,2028,37411.0,29,0.9723,0.7102,17,9,5032,KV,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-480,SEC-3
+Research Facility 7377459,7377459,Plumbing Systems,EPDM Membrane Roof,Replace System,2028,611246.0,61,0.9546,0.9422,-2,-1,7737,EA,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-222,SEC-4
+Research Facility 7377459,7377459,Plumbing Systems,EPDM Membrane Roof,Replace System,2027,648088.0,20,0.5763,0.5203,3,7,5615,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-568,SEC-2
+Research Facility 7377459,7377459,Roofing Systems,High-Voltage Switchgear,Sustainment Paint,2029,49557.0,100,0.3088,0.3581,0,26,5450,EA,Direct Visual,80,Synthetic DOE Assessor Comment,CAIS-749,SEC-1
+Research Facility 8090293,8090293,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2029,528986.0,74,0.8767,0.3835,5,26,1443,EA,Direct Visual,99,Synthetic DOE Assessor Comment,CAIS-544,SEC-4
+Research Facility 8090293,8090293,Interior Finishes,Epoxy Floor Coating,Replace System,2033,147431.0,1,0.7372,0.7787,-3,29,3268,LF,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-429,SEC-5
+Research Facility 8090293,8090293,Superstructure & Walls,Reinforced Concrete Repair,Sustainment Paint,2027,263410.0,81,0.7248,0.5284,10,9,5642,LF,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-205,SEC-4
+Research Facility 8536477,8536477,Superstructure & Walls,Reinforced Concrete Repair,Repair Deficiency,2031,673218.0,38,0.5582,0.7014,24,28,9771,LF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-803,SEC-2
+Research Facility 8536477,8536477,Roofing Systems,Epoxy Floor Coating,Replace System,2030,380887.0,22,0.7244,0.5784,20,-4,3743,EA,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-316,SEC-1
+Research Facility 8536477,8536477,Plumbing Systems,Chilled Water Loop,Repair Deficiency,2028,196769.0,47,0.5467,0.8855,-3,19,4191,SF,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-149,SEC-1
+Research Facility 8536477,8536477,HVAC & Mechanical,High-Voltage Switchgear,Repair Deficiency,2027,123174.0,89,0.9449,0.8193,2,21,7280,KV,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-660,SEC-3
+Research Facility 8536477,8536477,Interior Finishes,Air Handling Unit,Repair Deficiency,2030,259213.0,89,0.6847,0.97,-5,14,6896,SF,Direct Visual,93,Synthetic DOE Assessor Comment,CAIS-376,SEC-5
+Research Facility 8536477,8536477,Plumbing Systems,Air Handling Unit,Repair Deficiency,2033,510106.0,14,0.8439,0.5891,27,2,4632,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-609,SEC-2
+Research Facility 8536477,8536477,Plumbing Systems,High-Performance Glazing,Replace System,2035,38454.0,26,0.6485,0.8043,17,21,4840,EA,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-661,SEC-4
+Research Facility 8606962,8606962,HVAC & Mechanical,Epoxy Floor Coating,Replace System,2030,498053.0,1,0.7308,0.4754,-5,0,1810,KV,Direct Visual,69,Synthetic DOE Assessor Comment,CAIS-192,SEC-5
+Research Facility 8606962,8606962,Foundations & Substructure,Air Handling Unit,Sustainment Paint,2028,151257.0,33,0.8678,0.9694,9,24,4851,LF,Direct Visual,89,Synthetic DOE Assessor Comment,CAIS-151,SEC-1
+Research Facility 8606962,8606962,Electrical Systems,High-Performance Glazing,Repair Deficiency,2031,240509.0,47,0.9124,0.77,15,22,1899,SF,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-109,SEC-2
+Research Facility 8606962,8606962,HVAC & Mechanical,Air Handling Unit,Repair Deficiency,2032,339176.0,46,0.3125,0.9217,23,12,1523,LF,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-287,SEC-1
+Research Facility 8606962,8606962,Interior Finishes,Epoxy Floor Coating,Replace System,2031,325912.0,50,0.8542,0.6387,25,21,2733,SF,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-812,SEC-1
+Research Facility 8606962,8606962,Electrical Systems,High-Performance Glazing,Repair Deficiency,2033,160229.0,76,0.6768,0.743,25,23,2970,KV,Direct Visual,82,Synthetic DOE Assessor Comment,CAIS-726,SEC-1
+Research Facility 8707870,8707870,Interior Finishes,Epoxy Floor Coating,Repair Deficiency,2033,655165.0,57,0.7897,0.3725,-3,-1,4287,LF,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-821,SEC-5
+Research Facility 8707870,8707870,Electrical Systems,Air Handling Unit,Sustainment Paint,2030,543513.0,86,0.3931,0.912,16,28,8571,SF,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-777,SEC-2
+Research Facility 8707870,8707870,Interior Finishes,EPDM Membrane Roof,Sustainment Paint,2033,478281.0,20,0.7979,0.4705,30,-2,191,EA,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-969,SEC-4
+Research Facility 8707870,8707870,Electrical Systems,Epoxy Floor Coating,Repair Deficiency,2028,180400.0,97,0.7522,0.4193,26,15,3947,LF,Direct Visual,77,Synthetic DOE Assessor Comment,CAIS-151,SEC-5
+Research Facility 8707870,8707870,Superstructure & Walls,Chilled Water Loop,Sustainment Paint,2033,454768.0,52,0.8699,0.575,10,0,7522,KV,Direct Visual,96,Synthetic DOE Assessor Comment,CAIS-558,SEC-1
+Research Facility 8755439,8755439,Interior Finishes,EPDM Membrane Roof,Repair Deficiency,2034,687233.0,96,0.6529,0.3319,-4,1,6610,KV,Direct Visual,62,Synthetic DOE Assessor Comment,CAIS-670,SEC-5
+Research Facility 8755439,8755439,Foundations & Substructure,High-Voltage Switchgear,Repair Deficiency,2031,103871.0,66,0.9519,0.4254,30,8,7475,LF,Direct Visual,83,Synthetic DOE Assessor Comment,CAIS-945,SEC-1
+Research Facility 8755439,8755439,Electrical Systems,High-Performance Glazing,Replace System,2032,23672.0,72,0.7101,0.4668,25,18,7415,SF,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-877,SEC-2
+Research Facility 8755439,8755439,Foundations & Substructure,EPDM Membrane Roof,Replace System,2031,584280.0,71,0.8692,0.5973,28,18,1742,SF,Direct Visual,70,Synthetic DOE Assessor Comment,CAIS-604,SEC-2
+Research Facility 8755439,8755439,Electrical Systems,Air Handling Unit,Sustainment Paint,2033,224820.0,14,0.7906,0.7151,11,7,3073,SF,Direct Visual,85,Synthetic DOE Assessor Comment,CAIS-320,SEC-4
+Research Facility 8755439,8755439,Electrical Systems,High-Voltage Switchgear,Repair Deficiency,2032,380665.0,14,0.6237,0.7513,21,-3,9648,SF,Direct Visual,88,Synthetic DOE Assessor Comment,CAIS-568,SEC-5
+Research Facility 8755439,8755439,Plumbing Systems,High-Performance Glazing,Replace System,2027,269497.0,68,0.3918,0.629,-2,30,7092,KV,Direct Visual,92,Synthetic DOE Assessor Comment,CAIS-899,SEC-2
+Research Facility 8755439,8755439,HVAC & Mechanical,Chilled Water Loop,Repair Deficiency,2029,585917.0,14,0.3212,0.4783,19,15,8260,KV,Direct Visual,86,Synthetic DOE Assessor Comment,CAIS-723,SEC-2
+Research Facility 8755439,8755439,Roofing Systems,Epoxy Floor Coating,Replace System,2031,463014.0,58,0.8722,0.8756,3,3,6763,LF,Direct Visual,95,Synthetic DOE Assessor Comment,CAIS-981,SEC-3
+Research Facility 8755439,8755439,HVAC & Mechanical,Air Handling Unit,Sustainment Paint,2030,681918.0,26,0.7059,0.5273,8,13,5658,EA,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-615,SEC-5
+Research Facility 9961380,9961380,HVAC & Mechanical,Reinforced Concrete Repair,Replace System,2035,690781.0,62,0.6225,0.5342,21,29,4685,KV,Direct Visual,60,Synthetic DOE Assessor Comment,CAIS-635,SEC-1
+Research Facility 9961380,9961380,Foundations & Substructure,Epoxy Floor Coating,Repair Deficiency,2027,695764.0,86,0.5807,0.7793,-2,7,4375,EA,Direct Visual,78,Synthetic DOE Assessor Comment,CAIS-799,SEC-3
+Research Facility 9961380,9961380,Superstructure & Walls,High-Voltage Switchgear,Repair Deficiency,2031,610347.0,27,0.5957,0.4676,29,-3,5877,KV,Direct Visual,66,Synthetic DOE Assessor Comment,CAIS-730,SEC-5
+Research Facility 9961380,9961380,Electrical Systems,High-Performance Glazing,Sustainment Paint,2035,47686.0,50,0.3529,0.3016,10,27,4713,SF,Direct Visual,84,Synthetic DOE Assessor Comment,CAIS-496,SEC-4
+Research Facility 9961380,9961380,Electrical Systems,Air Handling Unit,Replace System,2035,733046.0,7,0.4851,0.7014,-5,11,3328,KV,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-748,SEC-3
+Research Facility 9961380,9961380,Electrical Systems,Chilled Water Loop,Sustainment Paint,2030,578262.0,100,0.5139,0.8491,7,13,7354,EA,Direct Visual,64,Synthetic DOE Assessor Comment,CAIS-291,SEC-2
+Research Facility 9961380,9961380,HVAC & Mechanical,Chilled Water Loop,Repair Deficiency,2033,431488.0,6,0.8372,0.7696,22,12,9120,LF,Direct Visual,68,Synthetic DOE Assessor Comment,CAIS-264,SEC-5
+Research Facility 9961380,9961380,Electrical Systems,EPDM Membrane Roof,Repair Deficiency,2032,262068.0,60,0.4259,0.6685,4,-3,2519,LF,Direct Visual,98,Synthetic DOE Assessor Comment,CAIS-152,SEC-5
+Research Facility 9996414,9996414,Interior Finishes,High-Voltage Switchgear,Sustainment Paint,2035,617115.0,46,0.8157,0.7345,-1,15,8609,EA,Direct Visual,71,Synthetic DOE Assessor Comment,CAIS-633,SEC-1
+Research Facility 9996414,9996414,Electrical Systems,Chilled Water Loop,Repair Deficiency,2033,13844.0,70,0.748,0.7707,29,20,1507,LF,Direct Visual,74,Synthetic DOE Assessor Comment,CAIS-318,SEC-3
+Research Facility 9996414,9996414,Roofing Systems,EPDM Membrane Roof,Replace System,2030,322697.0,97,0.9668,0.9143,28,25,9197,SF,Direct Visual,67,Synthetic DOE Assessor Comment,CAIS-784,SEC-3
+Research Facility 9996414,9996414,Interior Finishes,High-Performance Glazing,Sustainment Paint,2030,79954.0,6,0.7714,0.3351,15,19,1858,KV,Direct Visual,76,Synthetic DOE Assessor Comment,CAIS-653,SEC-3
+Research Facility 9996414,9996414,Foundations & Substructure,Chilled Water Loop,Replace System,2035,518642.0,66,0.33,0.7,23,26,719,LF,Direct Visual,72,Synthetic DOE Assessor Comment,CAIS-428,SEC-5
+Research Facility 9996414,9996414,Foundations & Substructure,Reinforced Concrete Repair,Repair Deficiency,2035,371540.0,69,0.4228,0.6862,-5,-1,3454,EA,Direct Visual,87,Synthetic DOE Assessor Comment,CAIS-955,SEC-1
+Research Facility 9996414,9996414,Superstructure & Walls,Chilled Water Loop,Sustainment Paint,2033,478026.0,83,0.3231,0.7742,-1,4,390,KV,Direct Visual,81,Synthetic DOE Assessor Comment,CAIS-138,SEC-1
