@@ -102,8 +102,8 @@ scenario_cols = CAIS_sim_dat.shape[1]
 experiment_count = 5
 
 #COST FUNCTIONS
-cst_p = CAIS_dat[cst_Project_Type] @ CAIS_dat.Qx
-cst_s = CAIS_dat[Non_cst_Project_Type] @ CAIS_dat.Qx
+cst_P = CAIS_dat[cst_Project_Type] @ CAIS_dat.Qx
+cst_S = CAIS_dat[Non_cst_Project_Type] @ CAIS_dat.Qx
 
 #REWARDS
 A_P = Placeholder('A_P')
@@ -134,7 +134,7 @@ slk_P = LogEncInteger("slk_P", (0, lim_Bp))
 slk_S = LogEncInteger("slk_S", (0, lim_Bs))
 
 ####HERERERERE WEEEE GOOOO))))
-E_Qx = A_P*(cst_p) + A_S*(cst_s) + M_P*(cst_p + slk_P - lim_Bp )**2 + M_S*(cst_s + slk_S - lim_Bs)**2 + lambda_P*(slk_P/lim_Bp)**2 + lambda_S*(slk_S/lim_Bs)**2
+E_Qx = A_P*(cst_P) + A_S*(cst_S) + M_P*(cst_P + slk_P - lim_Bp )**2 + M_S*(cst_S + slk_S - lim_Bs)**2 + lambda_P*(slk_P/lim_Bp)**2 + lambda_S*(slk_S/lim_Bs)**2
 model = E_Qx.compile()
 qubo, offset = model.to_qubo(feed_dict=feed_dict)
 
